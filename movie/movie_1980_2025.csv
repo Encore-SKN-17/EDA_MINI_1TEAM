@@ -66,7 +66,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 65. The Awakening,1980,R,,['United Kingdom'],['Horror'],101.0
 66. Fatso,1980,PG,,['United States'],"['Comedy', 'Drama', 'Romance']",93.0
 67. How to Beat the High Cost of Living,1980,PG,,['United States'],"['Comedy', 'Crime']",105.0
-68. How to Become a Detective,1980,Unrated,,,[],97.0
+68. How to Become a Detective,1980,Unrated,,['Unknown'],[],97.0
 69. Foxes,1980,R,,['United States'],"['Coming-of-Age', 'Teen Drama', 'Drama']",106.0
 70. The Big Red One,1980,R,"$4,500,000 (estimated)",['United States'],"['War Epic', 'Drama', 'War']",113.0
 71. The Stunt Man,1980,R,"$3,500,000 (estimated)",['United States'],"['Psychological Thriller', 'Satire', 'Workplace Drama', 'Action', 'Comedy', 'Drama', 'Romance', 'Thriller']",131.0
@@ -10487,7 +10487,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 336. Dobermann,1997,R,"FRF33,000,000 (estimated)",['France'],"['Dark Comedy', 'Action', 'Comedy', 'Crime', 'Drama', 'Thriller']",103.0
 337. Innocence,1997,Unrated,,['Turkey'],['Drama'],110.0
 338. Robinson Crusoe,1997,PG-13,,['United States'],"['Sea Adventure', 'Survival', 'Adventure', 'Drama']",105.0
-339. Black Hawk Down,1997,Unrated,,,['Documentary'],57.0
+339. Black Hawk Down,1997,Unrated,,['Unknown'],['Documentary'],57.0
 340. Glam,1997,NC-17,,['United States'],['Drama'],92.0
 341. The Exotic House of Wax,1997,R,,['United States'],"['Raunchy Comedy', 'Comedy', 'Fantasy', 'Mystery', 'Romance']",85.0
 342. The Brave,1997,Unrated,,['United States'],['Drama'],123.0
@@ -11670,7 +11670,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 319. Friends & Lovers,1999,R,,['United States'],"['Comedy', 'Drama', 'Romance']",103.0
 320. Bolivia,1999,Unrated,,"['Argentina', 'Netherlands']",['Drama'],75.0
 321. The Weekend,1999,Unrated,,"['United Kingdom', 'United States']",['Drama'],97.0
-322. Beyond Beautiful,1999,Unrated,,,[],100.0
+322. Beyond Beautiful,1999,Unrated,,['Unknown'],[],100.0
 323. Southpaw,1999,Unrated,,"['United Kingdom', 'Ireland']","['Sports Documentary', 'Documentary', 'Sport']",77.0
 324. Best Laid Plans,1999,R,"$7,000,000 (estimated)",['United States'],"['Crime', 'Drama', 'Thriller']",92.0
 325. The Joyriders,1999,PG-13,,['United States'],"['Crime', 'Drama']",100.0
@@ -17095,7 +17095,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 344. Throw Down Your Heart,2008,Unrated,,['United States'],"['Documentary', 'Family', 'Music']",97.0
 "345. Me & You, Us, Forever",2008,PG,,['United States'],['Drama'],92.0
 346. The Midnight Meat Train,2008,R,"$15,000,000 (estimated)","['United States', 'United Kingdom']","['Slasher Horror', 'Supernatural Horror', 'Horror', 'Mystery', 'Thriller']",100.0
-347. Maria Stuarda at La Scala,2008,Unrated,,,[],99.0
+347. Maria Stuarda at La Scala,2008,Unrated,,['Unknown'],[],99.0
 348. Praying with Lior,2008,Unrated,,['United Kingdom'],"['Biography', 'Documentary', 'Family']",87.0
 349. Humboldt County,2008,R,,['United States'],"['Comedy', 'Drama']",97.0
 350. Kisses,2008,Unrated,,"['Ireland', 'Sweden']",['Drama'],72.0
@@ -20670,7 +20670,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 319. Serena,2014,R,"$30,000,000 (estimated)","['France', 'United States', 'Czech Republic', 'Canada']","['Drama', 'History', 'Romance']",109.0
 320. The Farewell Party,2014,Unrated,,"['Israel', 'Germany']","['Comedy', 'Drama', 'Romance']",95.0
 321. That Demon Within,2014,Unrated,,"['Hong Kong', 'China']","['Action', 'Crime', 'Horror']",111.0
-322. Bolshoi Ballet: The Golden Age,2014,Unrated,,,[],140.0
+322. Bolshoi Ballet: The Golden Age,2014,Unrated,,['Unknown'],[],140.0
 323. A Brilliant Young Mind,2014,PG-13,,"['United Kingdom', 'Australia']","['Drama', 'Romance']",111.0
 324. God's Pocket,2014,R,"$1,000,000 (estimated)",['United States'],"['Crime', 'Drama']",88.0
 325. Time Out of Mind,2014,Unrated,,['United States'],['Drama'],120.0
@@ -21328,7 +21328,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 377. Christmas Eve,2015,PG,,['United States'],"['Holiday Comedy', 'Comedy', 'Holiday']",95.0
 378. Queen of Earth,2015,Unrated,"$200,000 (estimated)","['United States', 'Greece']","['Drama', 'Mystery', 'Thriller']",90.0
 379. Beasts of No Nation,2015,TV-MA,"$6,000,000 (estimated)",['United States'],"['Drama', 'War']",137.0
-380. Bolshoi Ballet: Swan Lake,2015,Unrated,,,"['Fantasy', 'Music', 'Musical', 'Romance']",160.0
+380. Bolshoi Ballet: Swan Lake,2015,Unrated,,['Unknown'],"['Fantasy', 'Music', 'Musical', 'Romance']",160.0
 381. Hero,2015,Unrated,,['India'],"['Action', 'Drama', 'Musical', 'Romance']",145.0
 382. Tab Hunter Confidential,2015,Unrated,,['United States'],"['Biography', 'Documentary']",90.0
 383. Mountains May Depart,2015,Unrated,,"['China', 'France', 'Japan']","['Drama', 'Romance']",126.0
@@ -22388,7 +22388,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 237. On Chesil Beach,2017,R,,['United Kingdom'],"['Drama', 'Music', 'Romance']",110.0
 238. Walk With Me,2017,Unrated,"$800,000 (estimated)",['United Kingdom'],"['Faith & Spirituality Documentary', 'Documentary']",94.0
 239. May it Last: A Portrait of the Avett Brothers,2017,Unrated,"$500,000 (estimated)",['United States'],"['Documentary', 'Music']",104.0
-240. Revive Us 2,2017,Unrated,,,['Documentary'],90.0
+240. Revive Us 2,2017,Unrated,,['Unknown'],['Documentary'],90.0
 241. Chris Brown: Welcome To My Life,2017,Unrated,,['United States'],['Documentary'],80.0
 242. Shubh Mangal Savdhan,2017,Unrated,,['India'],"['Comedy', 'Romance']",119.0
 243. The Devotion of Suspect X,2017,Unrated,,"['China', 'South Korea']","['Crime', 'Thriller']",112.0
@@ -22415,7 +22415,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 264. Confidential Assignment,2017,Unrated,,['South Korea'],"['Action', 'Comedy', 'Drama', 'Thriller']",124.0
 265. Beach Rats,2017,R,,['United States'],"['Coming-of-Age', 'Teen Drama', 'Drama']",98.0
 266. Duckweed,2017,Unrated,,['China'],"['Comedy', 'Drama', 'Fantasy']",102.0
-267. DCI 2017 Tour Premeire,2017,Unrated,,,['Documentary'],104.0
+267. DCI 2017 Tour Premeire,2017,Unrated,,['Unknown'],['Documentary'],104.0
 268. Phillauri,2017,Unrated,,['India'],"['Comedy', 'Drama', 'Fantasy', 'Musical', 'Romance']",138.0
 269. Final Portrait,2017,R,,"['United Kingdom', 'United States']","['Biography', 'Comedy', 'Drama']",90.0
 270. Scotty and the Secret History of Hollywood,2017,Unrated,,['United States'],"['Biography', 'Documentary', 'History']",98.0
@@ -22448,7 +22448,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 297. The Opera House,2017,Unrated,,['United States'],['Documentary'],111.0
 298. The Breadwinner,2017,PG-13,,"['Ireland', 'Canada', 'Luxembourg', 'United States', 'France']","['Animation', 'Drama', 'Family', 'War']",94.0
 299. City Of Rock,2017,Unrated,,['China'],"['Comedy', 'Music']",117.0
-300. Bolshoi Ballet: The Sleeping Beauty,2017,Unrated,,,"['Fantasy', 'Music', 'Romance']",170.0
+300. Bolshoi Ballet: The Sleeping Beauty,2017,Unrated,,['Unknown'],"['Fantasy', 'Music', 'Romance']",170.0
 301. Happy End,2017,R,"€12,034,009 (estimated)","['France', 'Austria', 'Germany']","['Dark Comedy', 'Drama']",107.0
 302. Ittefaq,2017,Unrated,"₹290,000,000 (estimated)",['India'],"['Mystery', 'Thriller']",105.0
 303. Buddies in India,2017,Unrated,,"['China', 'India']","['Action', 'Comedy']",99.0
@@ -22533,7 +22533,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 "382. Love, Cecil",2017,Unrated,,['United States'],"['Biography', 'Documentary', 'History']",98.0
 "383. Belle and Sebastian, Friends for Life",2017,TV-PG,,['France'],"['Animal Adventure', 'Adventure', 'Family']",91.0
 384. Fabricated City,2017,Unrated,,['South Korea'],"['Action', 'Crime']",126.0
-385. The Bolshoi Ballet: Live From Moscow - A Hero of Our Time,2017,Unrated,,,[],165.0
+385. The Bolshoi Ballet: Live From Moscow - A Hero of Our Time,2017,Unrated,,['Unknown'],[],165.0
 386. Sweet Country,2017,R,,['Australia'],"['Adventure', 'Crime', 'Drama', 'Thriller', 'Western']",113.0
 387. Memoir of War,2017,Unrated,"€6,563,754 (estimated)","['France', 'Belgium', 'Switzerland']","['Biography', 'Drama', 'War']",127.0
 388. Filmworker,2017,Unrated,,['United States'],"['Biography', 'Documentary']",94.0
@@ -22956,7 +22956,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 205. Detective Chinatown 2,2018,R,,['China'],"['Action', 'Comedy', 'Mystery']",121.0
 206. Racetime,2018,PG,,['Canada'],"['Adventure', 'Animation', 'Family']",89.0
 207. The White Crow,2018,R,,"['United Kingdom', 'France', 'Serbia', 'United States']","['Biography', 'Drama']",127.0
-208. Moses,2018,Unrated,,,[],130.0
+208. Moses,2018,Unrated,,['Unknown'],[],130.0
 209. Profile,2018,R,,"['United States', 'United Kingdom', 'Russia']","['Cyber Thriller', 'Political Thriller', 'Psychological Thriller', 'Spy', 'Mystery', 'Thriller']",106.0
 210. Race 3,2018,Unrated,,['India'],"['Action', 'Thriller']",160.0
 211. Pad Man,2018,PG-13,,"['India', 'Hong Kong', 'United States']","['Comedy', 'Drama']",140.0
@@ -23017,7 +23017,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 266. The Island,2018,Unrated,,['China'],"['Comedy', 'Drama']",134.0
 267. Lizzie,2018,R,,"['United Kingdom', 'United States']","['True Crime', 'Biography', 'Crime', 'Drama', 'Mystery', 'Thriller']",105.0
 "268. Love, Gilda",2018,Unrated,,"['Canada', 'United States']",['Documentary'],88.0
-"269. DCI 2019: Big, Loud & Live 16",2018,Unrated,,,['Documentary'],325.0
+"269. DCI 2019: Big, Loud & Live 16",2018,Unrated,,['Unknown'],['Documentary'],325.0
 270. The Chaperone,2018,Unrated,,"['United Kingdom', 'Australia', 'United States']",['Drama'],108.0
 271. The Grateful Dead Meet-Up 2018,2018,Unrated,,['United States'],"['Documentary', 'Music']",180.0
 272. Bethany Hamilton: Unstoppable,2018,PG,,['United States'],"['Extreme Sport', 'Sports Documentary', 'Water Sport', 'Documentary', 'Sport']",100.0
@@ -23039,7 +23039,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 288. The Happy Prince,2018,R,,"['United Kingdom', 'Belgium', 'Italy', 'Germany', 'France']","['Biography', 'Drama']",105.0
 289. Puffs: Filmed Live Off Broadway,2018,Unrated,,['United States'],"['Adventure', 'Comedy']",118.0
 290. Teen Spirit,2018,PG-13,,"['United Kingdom', 'United States']","['Drama', 'Music']",93.0
-291. DCI 2018 Tour Premeire,2018,Unrated,,,['Documentary'],105.0
+291. DCI 2018 Tour Premeire,2018,Unrated,,['Unknown'],['Documentary'],105.0
 292. Ash Is Purest White,2018,Unrated,,"['China', 'France', 'Japan']","['Crime', 'Drama', 'Romance']",136.0
 293. The Cold Blue,2018,TV-PG,,['United States'],"['Documentary', 'War']",73.0
 294. Cirque du Soleil in Cinema: KURIOS - Cabinet of Curiosities,2018,Unrated,,['United States'],"['Fantasy', 'Sport']",105.0
@@ -23060,12 +23060,12 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 309. Diane,2018,Unrated,,['United States'],['Drama'],95.0
 310. Russ Taff: I Still Believe,2018,Unrated,,['United States'],['Documentary'],104.0
 311. Hichki,2018,Unrated,"$2,000,000 (estimated)",['India'],"['Comedy', 'Drama']",116.0
-312. The Bolshoi Ballet: Live From Moscow - The Nutcracker,2018,Unrated,,,[],140.0
+312. The Bolshoi Ballet: Live From Moscow - The Nutcracker,2018,Unrated,,['Unknown'],[],140.0
 313. You Are Here: A Come From Away Story,2018,Unrated,,['Canada'],['Documentary'],84.0
-314. The Bolshoi Ballet: Live From Moscow - Romeo and Juliet,2018,Unrated,,,[],150.0
+314. The Bolshoi Ballet: Live From Moscow - Romeo and Juliet,2018,Unrated,,['Unknown'],[],150.0
 315. Aquarela,2018,PG,,"['United Kingdom', 'Germany', 'Denmark', 'United States']","['Nature Documentary', 'Documentary']",90.0
 316. Damsel,2018,R,,['United States'],"['Dark Comedy', 'Comedy', 'Drama', 'Western']",113.0
-317. The Bolshoi Ballet: Live from Moscow - Giselle,2018,Unrated,,,[],140.0
+317. The Bolshoi Ballet: Live from Moscow - Giselle,2018,Unrated,,['Unknown'],[],140.0
 318. Stockholm,2018,R,"$9,000,000 (estimated)","['Canada', 'United States', 'Sweden']","['Dark Comedy', 'Docudrama', 'Period Drama', 'True Crime', 'Biography', 'Comedy', 'Crime', 'Drama', 'History']",92.0
 319. More Than Funny,2018,Unrated,"$50,000 (estimated)",['United States'],['Comedy'],114.0
 320. Andy Irons: Kissed by God,2018,Unrated,"$2,000,000 (estimated)",['United States'],['Documentary'],100.0
@@ -23102,12 +23102,12 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 351. Hesburgh,2018,Unrated,,['United States'],['Documentary'],106.0
 352. Maquia: When the Promised Flower Blooms,2018,Unrated,,['Japan'],"['Anime', 'Fantasy Epic', 'Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Romance']",115.0
 353. Default,2018,Unrated,,['South Korea'],"['Drama', 'History', 'Financial Drama']",114.0
-354. The Bolshoi Ballet: Live From Moscow - Coppélia,2018,Unrated,,,['Comedy'],165.0
+354. The Bolshoi Ballet: Live From Moscow - Coppélia,2018,Unrated,,['Unknown'],['Comedy'],165.0
 355. Studio 54,2018,TV-MA,,['United States'],"['Documentary', 'History', 'Music']",98.0
 356. Have It All -The Movie,2018,Approved,"$250,000 (estimated)",['United States'],['Documentary'],90.0
 357. Family,2018,R,,['United States'],['Comedy'],85.0
 358. The Doors: Break On Thru - A Celebration Of Ray Manzarek,2018,Unrated,,['United States'],['Documentary'],67.0
-359. The Bolshoi Ballet: Live From Moscow - Don Quixote,2018,Unrated,,,[],175.0
+359. The Bolshoi Ballet: Live From Moscow - Don Quixote,2018,Unrated,,['Unknown'],[],175.0
 360. The Monkey King 3,2018,Unrated,"$73,000,000 (estimated)","['China', 'Hong Kong']","['Action', 'Adventure', 'Family', 'Fantasy']",114.0
 361. Madeline's Madeline,2018,Unrated,,['United States'],['Drama'],93.0
 362. National Theatre Live: King Lear,2018,Unrated,,['United Kingdom'],"['Drama', 'History']",227.0
@@ -23119,11 +23119,11 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 368. BuyBust,2018,Unrated,,['Philippines'],"['Drug Crime', 'Action', 'Crime', 'Thriller']",127.0
 369. Modest Heroes,2018,PG,,['Japan'],"['Anime', 'Adventure', 'Animation', 'Family', 'Fantasy']",53.0
 "370. Iyengar: The Man, Yoga, and the Student's Journey",2018,Unrated,,"['United States', 'India']",['Documentary'],107.0
-371. The Bolshoi Ballet: Live From Moscow - The Flames of Paris,2018,Unrated,,,[],135.0
+371. The Bolshoi Ballet: Live From Moscow - The Flames of Paris,2018,Unrated,,['Unknown'],[],135.0
 372. Always at The Carlyle,2018,PG-13,,['United States'],['Documentary'],92.0
-373. The Bolshoi Ballet: Live From Moscow - La Sylphide,2018,Unrated,,,"['Fantasy', 'Music', 'Romance']",120.0
+373. The Bolshoi Ballet: Live From Moscow - La Sylphide,2018,Unrated,,['Unknown'],"['Fantasy', 'Music', 'Romance']",120.0
 374. Luis and the Aliens,2018,PG,,"['Germany', 'Luxembourg', 'Denmark', 'Belgium', 'China']","['Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",86.0
-375. The Bolshoi Ballet: Live From Moscow - The Lady of the Camellias,2018,Unrated,,,[],185.0
+375. The Bolshoi Ballet: Live From Moscow - The Lady of the Camellias,2018,Unrated,,['Unknown'],[],185.0
 376. Rampant,2018,Unrated,,['South Korea'],"['Action', 'Drama', 'History', 'Horror', 'Thriller']",121.0
 377. Nureyev: Lifting the Curtain,2018,Unrated,,['United Kingdom'],['Documentary'],109.0
 378. Sunset,2018,R,"€8,900,000 (estimated)","['Hungary', 'France']","['Drama', 'History']",142.0
@@ -23161,7 +23161,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 410. Gonjiam: Haunted Asylum,2018,Unrated,,['South Korea'],"['Found Footage Horror', 'Horror', 'Mystery']",95.0
 411. Nostalgia,2018,R,,['United States'],['Drama'],114.0
 412. The Woman Who Loves Giraffes,2018,Unrated,,['Canada'],['Documentary'],123.0
-413. Hymn: Sarah Brightman In Concert,2018,Unrated,,,['Music'],105.0
+413. Hymn: Sarah Brightman In Concert,2018,Unrated,,['Unknown'],['Music'],105.0
 414. A Boy. A Girl. A Dream.,2018,R,,['United States'],"['Drama', 'Romance']",89.0
 415. Take Point,2018,Unrated,,['South Korea'],['Action'],0.0
 "416. Hale County This Morning, This Evening",2018,Unrated,,['United States'],['Documentary'],76.0
@@ -23330,7 +23330,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 579. Out of Blue,2018,Unrated,,"['United Kingdom', 'United States']","['Crime', 'Drama', 'Mystery']",109.0
 580. Black Mother,2018,TV-MA,,"['Jamaica', 'United States']",['Documentary'],77.0
 581. Crime + Punishment,2018,Unrated,,['United States'],['Documentary'],112.0
-582. Allegiance to Broadway,2018,Unrated,,,[],105.0
+582. Allegiance to Broadway,2018,Unrated,,['Unknown'],[],105.0
 583. 306 Hollywood,2018,Unrated,,['United States'],['Documentary'],94.0
 584. Chained for Life,2018,Unrated,,['United States'],['Drama'],91.0
 585. Revival,2018,PG,,['United States'],"['Animation', 'Music', 'Musical']",105.0
@@ -23503,12 +23503,12 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 152. Portrait of a Lady on Fire,2019,R,"€4,860,000 (estimated)",['France'],"['Steamy Romance', 'Drama', 'Romance']",122.0
 153. Ne Zha,2019,Unrated,,['China'],"['Computer Animation', 'Fantasy Epic', 'Martial Arts', 'Supernatural Fantasy', 'Action', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Thriller']",110.0
 154. Mission Mangal,2019,TV-14,,['India'],"['Drama', 'History']",130.0
-155. The Oscar Nominated Short Films 2019: Documentary,2019,Unrated,,,['Documentary'],137.0
+155. The Oscar Nominated Short Films 2019: Documentary,2019,Unrated,,['Unknown'],['Documentary'],137.0
 156. The Beach Bum,2019,R,"$5,000,000 (estimated)","['Switzerland', 'United Kingdom', 'France', 'United States']","['Stoner Comedy', 'Comedy', 'Drama']",95.0
 157. Honey Boy,2019,R,,['United States'],['Drama'],94.0
 158. Bharat,2019,Unrated,,['India'],"['Action', 'Comedy', 'Drama']",150.0
 159. The Last Full Measure,2019,R,"$20,000,000 (estimated)",['United States'],"['Drama', 'War']",116.0
-160. Friends 25th: The One With The Anniversary,2019,Unrated,,,"['Sitcom', 'Comedy']",105.0
+160. Friends 25th: The One With The Anniversary,2019,Unrated,,['Unknown'],"['Sitcom', 'Comedy']",105.0
 161. Saaho,2019,TV-MA,"₹3,500,000,000 (estimated)",['India'],"['Action Epic', 'One-Person Army Action', 'Action', 'Thriller']",170.0
 162. Kalank,2019,Unrated,"₹1,500,000,000 (estimated)",['India'],"['Drama', 'Romance']",166.0
 163. Tod@s caen,2019,PG-13,,['Mexico'],['Comedy'],120.0
@@ -23542,7 +23542,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 191. Pilgrim's Progress,2019,PG,,['United States'],"['Adventure', 'Animation', 'Family', 'Fantasy']",108.0
 192. No Safe Spaces,2019,PG-13,,['United States'],"['News', 'Documentary', 'War']",100.0
 193. Metallica & San Francisco Symphony - S&M2,2019,Unrated,,['United States'],"['Documentary', 'Music']",150.0
-194. BTS World Tour 'Love Yourself: Speak Yourself' (The Final) Seoul Live Viewing,2019,Unrated,,,['Music'],210.0
+194. BTS World Tour 'Love Yourself: Speak Yourself' (The Final) Seoul Live Viewing,2019,Unrated,,['Unknown'],['Music'],210.0
 195. Kingdom Men Rising,2019,Unrated,"$300,000 (estimated)",['United States'],['Documentary'],93.0
 196. Los Domirriqueños 2,2019,Unrated,,['Puerto Rico'],['Comedy'],107.0
 197. Ek Ladki Ko Dekha Toh Aisa Laga,2019,Unrated,,['India'],"['Crime', 'Drama']",120.0
@@ -23556,9 +23556,9 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 205. Bennett's War,2019,PG-13,,['United States'],['Sport'],94.0
 206. Luka Chuppi,2019,Unrated,,['India'],"['Romantic Comedy', 'Comedy', 'Romance']",126.0
 207. The Souvenir,2019,R,,"['United Kingdom', 'United States']","['Drama', 'Romance']",120.0
-208. Noah,2019,Unrated,,,"['Family', 'History', 'Musical']",130.0
+208. Noah,2019,Unrated,,['Unknown'],"['Family', 'History', 'Musical']",130.0
 209. Marianne & Leonard: Words of Love,2019,R,,"['Canada', 'United Kingdom']","['Biography', 'Documentary', 'Music', 'Romance']",102.0
-210. Rush: Cinema Strangiato 2019,2019,Unrated,,,['Music'],120.0
+210. Rush: Cinema Strangiato 2019,2019,Unrated,,['Unknown'],['Music'],120.0
 211. The Fighting Preacher,2019,PG,,['United States'],"['Docudrama', 'Period Drama', 'Drama', 'History']",100.0
 212. Toni Morrison: The Pieces I Am,2019,PG-13,,['United States'],['Documentary'],120.0
 213. Kinky Boots: The Musical,2019,Unrated,,['United Kingdom'],['Musical'],135.0
@@ -23572,7 +23572,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 221. Color Out of Space,2019,Unrated,"$6,000,000 (estimated)","['United States', 'Malaysia', 'Portugal']","['Horror', 'Mystery', 'Sci-Fi', 'Thriller']",111.0
 222. Patterns of Evidence: Moses Controversy,2019,Unrated,,['United States'],"['Faith & Spirituality Documentary', 'Documentary']",140.0
 223. I Love Lucy: A Colorized Celebration,2019,Unrated,,['United States'],['Comedy'],155.0
-224. Joni 75: A Birthday Celebration,2019,Unrated,,,['Music'],128.0
+224. Joni 75: A Birthday Celebration,2019,Unrated,,['Unknown'],['Music'],128.0
 225. David Crosby: Remember My Name,2019,R,,['United States'],"['Documentary', 'Music']",95.0
 226. The Captain,2019,Unrated,,"['China', 'Hong Kong', 'United States']","['Action', 'Adventure', 'Drama', 'Family', 'Thriller']",111.0
 227. Where's My Roy Cohn?,2019,PG-13,,['United States'],['Documentary'],97.0
@@ -23589,15 +23589,15 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 238. Furie,2019,TV-14,"$1,000,000 (estimated)",['Vietnam'],"['Martial Arts', 'One-Person Army Action', 'Action', 'Drama', 'Thriller']",98.0
 239. Fiddler: A Miracle of Miracles,2019,PG-13,,['United States'],['Documentary'],97.0
 240. Everybody's Everything,2019,TV-MA,,['United States'],"['Documentary', 'Music']",116.0
-"241. DCI 2019: Big, Loud & Live 16",2019,Unrated,,,[],104.0
+"241. DCI 2019: Big, Loud & Live 16",2019,Unrated,,['Unknown'],[],104.0
 242. A Brother's Love,2019,Unrated,,['Canada'],"['Comedy', 'Drama']",117.0
-243. Grateful Dead Meet-Up 2019,2019,Unrated,,,"['Documentary', 'Music']",120.0
+243. Grateful Dead Meet-Up 2019,2019,Unrated,,['Unknown'],"['Documentary', 'Music']",120.0
 244. Code Geass: Lelouch of the Re;Surrection,2019,Unrated,,['Japan'],"['Anime', 'Mecha', 'Action', 'Adventure', 'Animation', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",112.0
 245. The Spy Behind Home Plate,2019,Unrated,"$1,500,000 (estimated)",['United States'],['Documentary'],101.0
 246. Batla House,2019,Unrated,,['India'],"['Cop Drama', 'True Crime', 'Action', 'Crime', 'Drama', 'History', 'Thriller']",146.0
 247. The Climbers,2019,Unrated,,['China'],"['Action', 'Adventure', 'Drama', 'History']",125.0
 248. The Great Alaskan Race,2019,PG,,['United States'],"['Action', 'Adventure', 'Drama', 'History']",87.0
-249. CatVideoFest,2019,Unrated,,,['Documentary'],70.0
+249. CatVideoFest,2019,Unrated,,['Unknown'],['Documentary'],70.0
 250. Exit,2019,Unrated,,['South Korea'],['Comedy'],103.0
 251. Panipat,2019,Unrated,,['India'],"['Action', 'Drama', 'History', 'War']",171.0
 252. Les Misérables: The Staged Concert,2019,Unrated,,['United Kingdom'],"['Drama', 'History', 'Musical', 'Romance', 'War']",145.0
@@ -23627,10 +23627,10 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 276. Ordinary Love,2019,R,,['United Kingdom'],"['Drama', 'Romance']",92.0
 277. Sword of Trust,2019,R,,['United States'],"['Comedy', 'Drama']",88.0
 278. Lucy in the Sky,2019,R,"$21,400,000 (estimated)",['United States'],"['Drama', 'Romance', 'Thriller']",124.0
-279. Josh Groban Bridges Live from Madison Square Garden,2019,Unrated,,,[],104.0
+279. Josh Groban Bridges Live from Madison Square Garden,2019,Unrated,,['Unknown'],[],104.0
 280. DanTDM Presents The Contest,2019,TV-PG,,['United Kingdom'],[],95.0
 281. K-12,2019,TV-MA,"$5,000,000 (estimated)",['United States'],"['Body Horror', 'Dark Fantasy', 'Pop Musical', 'Supernatural Fantasy', 'Supernatural Horror', 'Teen Fantasy', 'Teen Horror', 'Witch Horror', 'Fantasy', 'Horror']",96.0
-282. Bolshoi Ballet: The Nutcracker,2019,Unrated,,,"['Family', 'Fantasy', 'Musical']",150.0
+282. Bolshoi Ballet: The Nutcracker,2019,Unrated,,['Unknown'],"['Family', 'Fantasy', 'Musical']",150.0
 283. The Informer,2019,R,"$60,000,000 (estimated)","['United Kingdom', 'Canada', 'United States']","['Police Procedural', 'Prison Drama', 'Spy', 'Action', 'Crime', 'Drama', 'Thriller']",113.0
 284. Ask Dr. Ruth,2019,Unrated,,['United States'],"['Biography', 'Documentary']",100.0
 285. Line Walker 2: Invisible Spy,2019,Unrated,,"['Hong Kong', 'China', 'Myanmar']","['Action', 'Crime', 'Thriller']",98.0
@@ -23648,8 +23648,8 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 297. Shakira in Concert: El Dorado World Tour,2019,TV-PG,,['United States'],"['Documentary', 'Music']",122.0
 298. Is It Wrong to Try to Pick Up Girls in a Dungeon - Arrow of the Orion,2019,TV-MA,,['Japan'],"['Anime', 'Action', 'Adventure', 'Animation', 'Comedy', 'Fantasy', 'Romance']",82.0
 299. One Child Nation,2019,R,,['United States'],"['Documentary', 'History']",83.0
-300. Slayer: The Repentless Killogy,2019,Unrated,,,"['Documentary', 'Music']",131.0
-301. Luzia: Cirque du Soleil in Cinema,2019,Unrated,,,['Musical'],95.0
+300. Slayer: The Repentless Killogy,2019,Unrated,,['Unknown'],"['Documentary', 'Music']",131.0
+301. Luzia: Cirque du Soleil in Cinema,2019,Unrated,,['Unknown'],['Musical'],95.0
 302. Out of Liberty,2019,PG,,['United States'],"['Period Drama', 'Drama', 'Western']",111.0
 303. Cunningham,2019,PG,,"['Germany', 'France', 'United States', 'United Kingdom', 'Switzerland']","['Biography', 'Documentary', 'Music']",93.0
 304. Play the Flute,2019,Unrated,,['United States'],['Drama'],103.0
@@ -23667,30 +23667,30 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 316. Love in Kilnerry,2019,Unrated,,['United States'],['Comedy'],105.0
 "317. Faith, Hope & Love",2019,PG,,['United States'],"['Comedy', 'Romance']",106.0
 318. Kathy Griffin: A Hell of a Story,2019,Unrated,"$50,000 (estimated)",['United States'],"['Stand-Up', 'Comedy', 'Documentary']",106.0
-319. Bolshoi Ballet: Carmen Suite/Petrushka,2019,Unrated,,,"['Drama', 'Music']",140.0
+319. Bolshoi Ballet: Carmen Suite/Petrushka,2019,Unrated,,['Unknown'],"['Drama', 'Music']",140.0
 320. Synonyms,2019,Unrated,,"['France', 'Israel', 'Germany']","['Comedy', 'Drama']",123.0
 321. Dabangg 3,2019,Unrated,"₹100,000,000 (estimated)",['India'],"['Cop Drama', 'One-Person Army Action', 'Action', 'Comedy', 'Crime', 'Drama']",160.0
 322. Blink of an Eye,2019,Unrated,,['United States'],"['Documentary', 'Sport']",88.0
 323. Lourdes,2019,Unrated,,['France'],['Documentary'],95.0
 324. Chasing the Dragon II: Wild Wild Bunch,2019,Unrated,,"['China', 'Hong Kong']","['Action', 'Biography', 'Crime', 'Thriller']",101.0
 325. Beanpole,2019,Unrated,,['Russia'],"['Period Drama', 'Psychological Drama', 'Tragedy', 'Drama', 'War']",130.0
-326. Bolshoi Ballet: Le Corsaire,2019,Unrated,,,[],104.0
+326. Bolshoi Ballet: Le Corsaire,2019,Unrated,,['Unknown'],[],104.0
 327. The Divine Plan,2019,Unrated,,['United States'],['Documentary'],105.0
 328. 42nd Street: The Musical,2019,Unrated,,['United Kingdom'],['Musical'],155.0
 329. The Outpost,2019,R,"$18,000,000 (estimated)",['United States'],"['Docudrama', 'Action', 'Drama', 'History', 'War']",123.0
 330. The River and the Wall,2019,Unrated,,"['Mexico', 'United States']","['Adventure', 'Documentary']",97.0
-331. Bolshoi Ballet: Raymonda,2019,Unrated,,,[],104.0
+331. Bolshoi Ballet: Raymonda,2019,Unrated,,['Unknown'],[],104.0
 332. The Warrior Queen of Jhansi,2019,R,,"['United Kingdom', 'Hong Kong']","['Adventure', 'Drama', 'Fantasy', 'War']",102.0
 333. And Then We Danced,2019,Unrated,,"['Sweden', 'Georgia', 'France']","['Drama', 'Romance']",113.0
 334. India's Most Wanted,2019,Unrated,,['India'],['Thriller'],123.0
 335. Marjaavaan,2019,Unrated,,['India'],"['Action', 'Drama', 'Romance']",152.0
 336. Frankie,2019,PG-13,,"['France', 'Portugal']","['Drama', 'Romance']",100.0
-"337. Asbury Park: Riot, Redemption, Rock & Roll",2019,Unrated,,,"['Documentary', 'Music']",116.0
+"337. Asbury Park: Riot, Redemption, Rock & Roll",2019,Unrated,,['Unknown'],"['Documentary', 'Music']",116.0
 338. The Bad Guys: The Movie,2019,Unrated,,['South Korea'],"['Action', 'Crime', 'Thriller']",114.0
 339. Bright Ones,2019,PG,"$600,000 (estimated)",['United States'],['Musical'],82.0
 340. Extra Ordinary,2019,R,,"['Ireland', 'Belgium']","['Dark Comedy', 'Slapstick', 'Comedy', 'Fantasy', 'Horror']",94.0
-341. INXS: Baby Live at Wembly Stadium,2019,Unrated,,,[],98.0
-"342. Diana Ross: Her Life, Love and Legacy",2019,Unrated,,,[],160.0
+341. INXS: Baby Live at Wembly Stadium,2019,Unrated,,['Unknown'],[],98.0
+"342. Diana Ross: Her Life, Love and Legacy",2019,Unrated,,['Unknown'],[],160.0
 343. Them That Follow,2019,R,,['United States'],"['Drama', 'Horror', 'Mystery', 'Thriller']",98.0
 344. A Call to Spy,2019,PG-13,,"['United States', 'Hungary']","['True Crime', 'Biography', 'Crime', 'Drama', 'History', 'Thriller', 'War']",123.0
 345. Money,2019,Unrated,,['South Korea'],"['Crime', 'Drama']",115.0
@@ -23699,10 +23699,10 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 348. Invisible Life,2019,R,,"['Brazil', 'Germany']","['Period Drama', 'Drama']",139.0
 349. Framing John DeLorean,2019,Unrated,,['United States'],"['Biography', 'Documentary', 'Drama']",109.0
 350. The Burnt Orange Heresy,2019,R,,"['United Kingdom', 'Italy', 'United States']","['Drama', 'Mystery', 'Thriller']",99.0
-351. Canelo vs. Kovalev,2019,Unrated,,,[],104.0
+351. Canelo vs. Kovalev,2019,Unrated,,['Unknown'],[],104.0
 352. Incitement,2019,Unrated,,['Israel'],['Thriller'],123.0
-353. Wilder vs. Ortiz,2019,Unrated,,,['Sport'],270.0
-354. Lynryd Skynyrd: Last of the Street Survivors Farewell Tour,2019,Unrated,,,['Music'],110.0
+353. Wilder vs. Ortiz,2019,Unrated,,['Unknown'],['Sport'],270.0
+354. Lynryd Skynyrd: Last of the Street Survivors Farewell Tour,2019,Unrated,,['Unknown'],['Music'],110.0
 355. Beneath Us,2019,R,,['United States'],"['Horror', 'Thriller']",86.0
 356. Palau the Movie,2019,Unrated,"$2,000,000 (estimated)",['United States'],"['Biography', 'Drama', 'History']",120.0
 357. Made in Abyss: Journey's Dawn,2019,Unrated,,['Japan'],"['Anime', 'Dark Fantasy', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi']",119.0
@@ -23723,7 +23723,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 372. First Cow,2019,PG-13,,['United States'],"['Drama', 'Western']",122.0
 373. Tazza: One-Eyed Jack,2019,Unrated,,['South Korea'],"['Crime', 'Drama', 'Thriller']",139.0
 374. Come to Daddy,2019,R,,"['Ireland', 'Canada', 'New Zealand', 'United States']","['Comedy', 'Mystery', 'Thriller']",96.0
-375. Margaret Atwood: Live in Cinemas,2019,Unrated,,,"['News', 'Documentary']",110.0
+375. Margaret Atwood: Live in Cinemas,2019,Unrated,,['Unknown'],"['News', 'Documentary']",110.0
 376. Always Miss You,2019,Unrated,,"['China', 'Taiwan']",['Romance'],98.0
 377. Loopers: The Caddie's Long Walk,2019,PG,,['United States'],"['Documentary', 'Sport']",80.0
 378. My Dear Liar,2019,Unrated,,['China'],['Drama'],116.0
@@ -23749,7 +23749,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 398. End of the Century,2019,Unrated,,['Argentina'],['Drama'],84.0
 399. The Cave,2019,PG-13,,"['Denmark', 'Germany', 'France', 'United Kingdom', 'United States', 'Qatar', 'Syria']","['Documentary', 'War']",107.0
 400. We Summon the Darkness,2019,R,,"['United States', 'United Kingdom', 'Canada']","['Slasher Horror', 'Drama', 'Horror', 'Music', 'Thriller']",91.0
-401. John Fogerty: 50 Year Trip - Live at Red Rocks,2019,Unrated,,,['Music'],110.0
+401. John Fogerty: 50 Year Trip - Live at Red Rocks,2019,Unrated,,['Unknown'],['Music'],110.0
 402. Bacurau,2019,Unrated,"R$7,700,000 (estimated)","['Brazil', 'France']","['Contemporary Western', 'Action', 'Adventure', 'Drama', 'Horror', 'Mystery', 'Thriller', 'Western']",131.0
 403. Mickey and the Bear,2019,R,,['United States'],['Drama'],88.0
 404. Recorder: The Marion Stokes Project,2019,Unrated,,['United States'],"['News', 'Biography', 'Documentary', 'History']",87.0
@@ -23758,14 +23758,14 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 407. Samsam,2019,Unrated,,"['Belgium', 'France']","['Adventure', 'Animation', 'Family']",77.0
 408. Making Waves: The Art of Cinematic Sound,2019,Unrated,,['United States'],"['Documentary', 'History']",94.0
 409. My Zoe,2019,R,,"['United Kingdom', 'Germany', 'France', 'United States']",['Drama'],100.0
-410. Plácido Domingo Gala,2019,Unrated,,,[],120.0
+410. Plácido Domingo Gala,2019,Unrated,,['Unknown'],[],120.0
 411. QT8: The First Eight,2019,TV-MA,,['United States'],['Documentary'],103.0
 412. Greener Grass,2019,Unrated,,['United States'],['Comedy'],95.0
 413. About Endlessness,2019,Unrated,"€4,558,000 (estimated)","['Sweden', 'Germany', 'Norway', 'France']","['Comedy', 'Drama', 'Fantasy']",78.0
 414. Sympathy for the Devil,2019,Unrated,,"['France', 'Canada', 'Belgium']",['War'],100.0
 415. The Wonderland,2019,Unrated,,['Japan'],"['Anime', 'Coming-of-Age', 'Isekai', 'Adventure', 'Animation', 'Family', 'Fantasy']",115.0
 416. The Vigil,2019,PG-13,,['United States'],"['Supernatural Horror', 'Horror', 'Mystery', 'Thriller']",89.0
-417. Clinton Road,2019,Unrated,"$2,500,000 (estimated)",,"['Horror', 'Mystery']",77.0
+417. Clinton Road,2019,Unrated,"$2,500,000 (estimated)",['Unknown'],"['Horror', 'Mystery']",77.0
 "418. Love, Antosha",2019,R,,['United States'],"['Biography', 'Documentary', 'Music']",92.0
 419. Lux Æterna,2019,Unrated,,['France'],"['Showbiz Drama', 'Drama', 'Thriller']",51.0
 420. Free Trip to Egypt,2019,Unrated,,"['Switzerland', 'Egypt', 'United States']","['Adventure', 'Comedy', 'Documentary', 'Drama']",98.0
@@ -23798,7 +23798,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 447. Max Winslow and the House of Secrets,2019,PG,,['United States'],"['Artificial Intelligence', 'Family', 'Sci-Fi', 'Thriller']",98.0
 448. After Parkland,2019,Unrated,,['United States'],['Documentary'],92.0
 449. The Perfect Candidate,2019,Unrated,,"['Saudi Arabia', 'Germany']","['Comedy', 'Drama']",104.0
-450. Lionel Richie at Glastonbury,2019,Unrated,,,['Music'],100.0
+450. Lionel Richie at Glastonbury,2019,Unrated,,['Unknown'],['Music'],100.0
 451. The Perfect Race,2019,Unrated,,['United States'],"['Teen Drama', 'Drama', 'Sport']",96.0
 452. Vault,2019,R,,['United States'],"['Heist', 'Action', 'Crime', 'Drama', 'History', 'Thriller']",99.0
 453. Olympic Dreams,2019,PG-13,,"['South Korea', 'United States']","['Extreme Sport', 'Comedy', 'Romance', 'Sport']",85.0
@@ -23889,7 +23889,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 538. Malek,2019,Unrated,,['Canada'],['Drama'],95.0
 539. Ballet Blanc,2019,R,,['United States'],"['Drama', 'Horror', 'Mystery']",89.0
 540. The Gravedigger,2019,Unrated,"$50,000 (estimated)",['United States'],"['Horror', 'Thriller']",94.0
-541. No Ordinary Love,2019,Unrated,,,"['Romance', 'Thriller']",99.0
+541. No Ordinary Love,2019,Unrated,,['Unknown'],"['Romance', 'Thriller']",99.0
 542. Scales,2019,Unrated,,"['Saudi Arabia', 'United Arab Emirates', 'Jordan', 'Iraq']","['Drama', 'Fantasy', 'Mystery']",74.0
 543. Babyteeth,2019,MA-17,,['Australia'],"['Comedy', 'Drama', 'Music', 'Romance']",118.0
 544. Bill Traylor: Chasing Ghosts,2019,Unrated,,['United States'],['Documentary'],75.0
@@ -24026,7 +24026,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 75. Possessor,2020,R,,"['Canada', 'United Kingdom', 'Australia']","['Body Horror', 'Cyber Thriller', 'Psychological Horror', 'Psychological Thriller', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",103.0
 76. French Exit,2020,R,,"['Canada', 'Ireland', 'United Kingdom']","['Dark Comedy', 'Comedy', 'Drama']",113.0
 77. Baaghi 3,2020,Unrated,"₹550,000,000 (estimated)",['India'],"['One-Person Army Action', 'Action']",143.0
-78. Patterns of Evidence: The Red Sea Miracle,2020,Unrated,,,['Documentary'],150.0
+78. Patterns of Evidence: The Red Sea Miracle,2020,Unrated,,['Unknown'],['Documentary'],150.0
 79. Nine Days,2020,R,,"['United States', 'United Kingdom']","['Psychological Drama', 'Drama', 'Fantasy']",124.0
 80. Aline,2020,PG-13,"€23,000,000 (estimated)","['France', 'Canada', 'Belgium', 'Spain', 'United States']","['Biography', 'Comedy', 'Drama', 'Music']",126.0
 81. 100% Wolf,2020,PG,,"['Australia', 'Belgium', 'United Kingdom', 'United States', 'Netherlands', 'Russia']","['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",96.0
@@ -24043,7 +24043,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 92. Ava,2020,R,,['United States'],"['One-Person Army Action', 'Spy', 'Action', 'Crime', 'Drama', 'Thriller']",96.0
 93. Trolls World Tour,2020,PG,"$90,000,000 (estimated)","['United States', 'Japan']","['Computer Animation', 'Jukebox Musical', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",91.0
 94. Chal Mera Putt 2,2020,Unrated,,['India'],['Drama'],124.0
-95. CatVideoFest 2020,2020,Unrated,,,['Documentary'],75.0
+95. CatVideoFest 2020,2020,Unrated,,['Unknown'],['Documentary'],75.0
 96. Infamous,2020,Unrated,,['United States'],"['Crime', 'Drama', 'Romance', 'Thriller']",100.0
 97. Tulsa,2020,PG-13,,['United States'],"['Comedy', 'Drama']",120.0
 98. Stevie Nicks 24 Karat Gold the Concert,2020,Unrated,,['United States'],['Music'],135.0
@@ -24100,7 +24100,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 149. Tesla,2020,PG-13,"$5,000,000 (estimated)",['United States'],"['Biography', 'Drama']",102.0
 150. Miss Juneteenth,2020,Unrated,,['United States'],['Drama'],99.0
 151. Leap,2020,Unrated,,['China'],"['Biography', 'Drama', 'Sport']",135.0
-152. Riverdance 25th Anniversary Show,2020,Unrated,,,['Musical'],120.0
+152. Riverdance 25th Anniversary Show,2020,Unrated,,['Unknown'],['Musical'],120.0
 153. Undine,2020,Unrated,,"['Germany', 'France']","['Drama', 'Fantasy', 'Mystery', 'Romance', 'Thriller']",91.0
 154. Lumpia with a Vengeance,2020,Unrated,,['United States'],"['Action', 'Comedy']",112.0
 155. Riders of Justice,2020,Unrated,"$5,300,000 (estimated)","['Denmark', 'Sweden', 'Finland']","['Dark Comedy', 'One-Person Army Action', 'Action', 'Comedy', 'Drama', 'Thriller']",116.0
@@ -24134,7 +24134,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 183. Juvenile Delinquents,2020,R,"$1,000,000 (estimated)",['United States'],['Drama'],118.0
 184. Honeydew,2020,Unrated,,['United States'],['Horror'],106.0
 185. Hunter Hunter,2020,Unrated,,"['Canada', 'United States']","['Suspense Mystery', 'Drama', 'Horror', 'Mystery', 'Thriller']",93.0
-186. Nick Mason's Saucerful of Secrets: Live at the Roundhouse,2020,Unrated,,,['Music'],115.0
+186. Nick Mason's Saucerful of Secrets: Live at the Roundhouse,2020,Unrated,,['Unknown'],['Music'],115.0
 187. Counter Column,2020,PG-13,,['United States'],['Drama'],99.0
 188. Embattled,2020,R,,['United States'],"['Action', 'Drama', 'Sport']",117.0
 189. Monday,2020,R,,"['United Kingdom', 'United States', 'Greece']","['Feel-Good Romance', 'Drama', 'Romance']",116.0
@@ -24209,7 +24209,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 258. Night Shift,2020,Unrated,,"['France', 'Belgium', 'China']","['Crime', 'Drama', 'Thriller']",98.0
 259. The Fox Hunter,2020,Unrated,,['United States'],"['Comedy', 'Drama']",86.0
 260. Fear Pharm,2020,Unrated,,['United States'],"['Slasher Horror', 'Teen Horror', 'Comedy', 'Horror']",79.0
-261. Hai Tang Hong,2020,Unrated,,,[],90.0
+261. Hai Tang Hong,2020,Unrated,,['Unknown'],[],90.0
 262. Parallel Policy,2020,Unrated,"$3,000,000 (estimated)",['United States'],['Documentary'],100.0
 263. The Evil Next Door,2020,Unrated,,['Sweden'],"['Horror', 'Mystery', 'Thriller']",87.0
 264. I Need You Dead!,2020,Unrated,"$20,000 (estimated)",['United States'],"['Comedy', 'Horror']",107.0
@@ -24261,7 +24261,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 310. Spontaneous,2020,R,,['United States'],"['Dark Comedy', 'Romantic Comedy', 'Teen Horror', 'Teen Romance', 'Comedy', 'Drama', 'Horror', 'Romance']",101.0
 311. The Midnight Sky,2020,PG-13,,['United States'],"['Dystopian Sci-Fi', 'Space Sci-Fi', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",118.0
 312. Host,2020,Unrated,,['United Kingdom'],"['Found Footage Horror', 'Slasher Horror', 'Supernatural Horror', 'Horror', 'Mystery']",57.0
-313. Lucy Shimmers and the Prince of Peace,2020,TV-G,,,"['Drama', 'Family']",87.0
+313. Lucy Shimmers and the Prince of Peace,2020,TV-G,,['Unknown'],"['Drama', 'Family']",87.0
 314. Force of Nature,2020,R,"$15,000,000 (estimated)","['United States', 'Puerto Rico']","['Action', 'Adventure', 'Crime', 'Drama', 'Mystery', 'Thriller']",91.0
 315. Hubie Halloween,2020,PG-13,,['United States'],"['Comedy', 'Horror', 'Mystery']",103.0
 316. The One and Only Ivan,2020,PG,,['United States'],"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",95.0
@@ -24390,7 +24390,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 439. The Lost Husband,2020,PG-13,,['United States'],"['Drama', 'Romance']",109.0
 440. Gabriel's Inferno: Part One,2020,Unrated,,['United States'],['Romance'],124.0
 441. Disturbing the Peace,2020,R,"$5,000,000 (estimated)",['United States'],"['Contemporary Western', 'Action', 'Thriller']",91.0
-442. Deliver Us from Evil,2020,Unrated,,,"['Action', 'Crime', 'Thriller']",114.0
+442. Deliver Us from Evil,2020,Unrated,,['Unknown'],"['Action', 'Crime', 'Thriller']",114.0
 443. No Escapes,2020,Unrated,"RUR598,512,479 (estimated)",['Russia'],"['Action', 'Drama']",131.0
 444. Rifkin's Festival,2020,PG-13,,"['Spain', 'United States', 'Italy']","['Comedy', 'Romance']",88.0
 445. Occupation: Rainfall,2020,R,,['Australia'],"['Action', 'Sci-Fi']",128.0
@@ -24766,11 +24766,11 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 215. The Souvenir: Part II,2021,R,,"['United Kingdom', 'Ireland', 'United States']","['Coming-of-Age', 'Tragic Romance', 'Workplace Drama', 'Drama', 'Romance']",107.0
 216. Strawberry Mansion,2021,Unrated,"$200,000 (estimated)","['United States', 'Canada']","['Adventure Epic', 'Dark Comedy', 'Fairy Tale', 'Fantasy Epic', 'Quest', 'Adventure', 'Fantasy', 'Romance', 'Sci-Fi']",91.0
 217. Safer at Home,2021,R,,['United States'],"['Crime', 'Drama', 'Horror', 'Thriller']",82.0
-218. CatVideoFest 2021,2021,Unrated,,,['Documentary'],72.0
+218. CatVideoFest 2021,2021,Unrated,,['Unknown'],['Documentary'],72.0
 219. Fortune Favors Lady Nikuko,2021,Unrated,,['Japan'],"['Anime', 'Animation', 'Comedy', 'Drama', 'Family']",97.0
 220. Three Minutes: A Lengthening,2021,PG,"€122,500 (estimated)","['Netherlands', 'United Kingdom']","['Documentary', 'History', 'War']",69.0
 221. Censor,2021,Unrated,,['United Kingdom'],"['Psychological Horror', 'Suspense Mystery', 'Horror', 'Mystery', 'Thriller']",84.0
-222. Mission Stories,2021,Unrated,,,['Drama'],110.0
+222. Mission Stories,2021,Unrated,,['Unknown'],['Drama'],110.0
 "223. Goodbye, Don Glees!",2021,PG,,['Japan'],"['Anime', 'Adventure', 'Animation', 'Drama']",95.0
 224. My Love,2021,Unrated,,['China'],"['Comedy', 'Romance']",115.0
 225. Juniper,2021,Unrated,,['New Zealand'],['Drama'],94.0
@@ -24899,7 +24899,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 348. Millie Lies Low,2021,Unrated,,['New Zealand'],"['Comedy', 'Drama']",100.0
 349. Barbarians,2021,Unrated,,['United Kingdom'],"['Crime', 'Horror', 'Thriller']",89.0
 350. Sabaya,2021,Unrated,,['Sweden'],['Documentary'],90.0
-351. Average Joe,2021,Unrated,,,"['Superhero', 'Action', 'Comedy']",87.0
+351. Average Joe,2021,Unrated,,['Unknown'],"['Superhero', 'Action', 'Comedy']",87.0
 352. In Front of Your Face,2021,Unrated,,['South Korea'],['Drama'],85.0
 353. A New Old Play,2021,Unrated,,"['Hong Kong', 'China', 'France']","['Drama', 'History']",179.0
 354. Baking Up Love,2021,Unrated,,['United States'],['Comedy'],104.0
@@ -24920,7 +24920,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 369. Dark State,2021,Unrated,,['United States'],"['Political Thriller', 'Crime', 'Drama', 'Mystery', 'Thriller']",93.0
 "370. Introducing, Selma Blair",2021,Unrated,,['United States'],['Documentary'],90.0
 371. The Monsters Without,2021,Unrated,,['Philippines'],"['Adventure', 'Fantasy', 'Sci-Fi']",89.0
-372. Here After,2021,Unrated,,,[],104.0
+372. Here After,2021,Unrated,,['Unknown'],[],104.0
 373. The Hating Game,2021,R,,"['United States', 'United Kingdom']","['Comedy', 'Romance']",102.0
 374. Rock Paper Scissors,2021,Unrated,"$1,520,000 (estimated)",['United States'],['Comedy'],95.0
 375. Things Don't Stay Fixed,2021,PG-13,,['United States'],['Drama'],100.0
@@ -25234,7 +25234,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 83. Memory,2022,R,"$30,000,000 (estimated)",['United States'],"['One-Person Army Action', 'Action', 'Crime', 'Thriller']",114.0
 84. Sisu,2022,R,,"['Finland', 'United Kingdom', 'United States']","['Action Epic', 'One-Person Army Action', 'Action', 'War']",91.0
 85. Fall,2022,PG-13,"$3,000,000 (estimated)","['United Kingdom', 'United States']","['Survival', 'Action', 'Thriller']",107.0
-86. BTS Permission to Dance on Stage - Seoul: Live Viewing,2022,TV-14,,,"['Concert', 'Documentary', 'Music']",195.0
+86. BTS Permission to Dance on Stage - Seoul: Live Viewing,2022,TV-14,,['Unknown'],"['Concert', 'Documentary', 'Music']",195.0
 87. Tár,2022,R,"$25,000,000 (estimated)",['United States'],"['Psychological Drama', 'Drama', 'Music']",158.0
 88. She Said,2022,R,"$32,000,000 (estimated)","['United States', 'Japan']","['Docudrama', 'Workplace Drama', 'Drama', 'History']",129.0
 89. I Heard the Bells,2022,PG,,['United States'],"['Period Drama', 'Biography', 'Drama', 'Family', 'War']",110.0
@@ -25322,8 +25322,8 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 171. The Mean One,2022,Unrated,,['United States'],"['B-Horror', 'Parody', 'Comedy', 'Horror']",93.0
 172. Shin Ultraman,2022,Unrated,"¥900,000,000 (estimated)",['Japan'],"['Kaiju', 'Superhero', 'Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",112.0
 173. 2022 Oscar Nominated Short Films: Live Action,2022,R,,['United States'],['Drama'],120.0
-174. 2022 Oscar Nominated Short Films: Animation,2022,R,,,['Animation'],96.0
-175. 2022 Oscar Nominated Short Films: Documentary,2022,Unrated,,,['Documentary'],157.0
+174. 2022 Oscar Nominated Short Films: Animation,2022,R,,['Unknown'],['Animation'],96.0
+175. 2022 Oscar Nominated Short Films: Documentary,2022,Unrated,,['Unknown'],['Documentary'],157.0
 176. HIT: The 2nd Case,2022,Unrated,,['India'],"['Crime', 'Drama', 'Mystery', 'Thriller']",150.0
 177. Gangubai Kathiawadi,2022,TV-MA,,['India'],"['True Crime', 'Biography', 'Crime', 'Drama']",152.0
 178. Cuando sea joven,2022,PG,"$5,000,000 (estimated)",['Mexico'],['Comedy'],120.0
@@ -25511,7 +25511,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 360. The Worst Ones,2022,Unrated,,['France'],"['Comedy', 'Drama']",99.0
 361. Sirens,2022,Unrated,,['United States'],"['Documentary', 'Music']",79.0
 362. Flux Gourmet,2022,Unrated,,"['United Kingdom', 'Hungary', 'United States']","['Dark Comedy', 'Quirky Comedy', 'Comedy', 'Drama', 'Horror']",111.0
-363. 2nd Chance,2022,Unrated,,,['Documentary'],89.0
+363. 2nd Chance,2022,Unrated,,['Unknown'],['Documentary'],89.0
 364. Two Tickets to Greece,2022,Unrated,,"['France', 'Greece', 'Belgium']",['Comedy'],110.0
 365. A Couple,2022,Unrated,,"['France', 'United States']",['Drama'],63.0
 366. Rodeo,2022,Unrated,,['France'],['Drama'],105.0
@@ -25577,7 +25577,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 426. The Hit,2022,Unrated,,['United States'],"['Action', 'Adventure', 'Comedy']",103.0
 427. This Much We Know,2022,Unrated,,['United States'],['Documentary'],105.0
 428. Kill Devil Hills,2022,Unrated,,['United States'],"['Horror', 'Thriller']",104.0
-429. B'Twixt Now and Sunrise,2022,Unrated,,,"['Vampire Horror', 'Horror']",80.0
+429. B'Twixt Now and Sunrise,2022,Unrated,,['Unknown'],"['Vampire Horror', 'Horror']",80.0
 430. Rubikon,2022,Unrated,,['Austria'],"['Space Sci-Fi', 'Drama', 'Sci-Fi', 'Thriller']",110.0
 431. Imagining the Indian,2022,Unrated,"$1,630,500 (estimated)",['United States'],['Documentary'],95.0
 432. The Almond and the Seahorse,2022,Unrated,,['United Kingdom'],"['Psychological Drama', 'Drama']",96.0
@@ -26082,7 +26082,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 331. The League,2023,PG,,['United States'],"['Sports Documentary', 'Documentary', 'History', 'Sport']",103.0
 332. Close to You,2023,R,,"['Canada', 'United Kingdom', 'Ireland', 'United States']",['Drama'],100.0
 333. Fresh Kills,2023,Unrated,,['United States'],"['Crime', 'Drama']",120.0
-334. Uncharitable,2023,Unrated,,,['Documentary'],90.0
+334. Uncharitable,2023,Unrated,,['Unknown'],['Documentary'],90.0
 335. The Eternal Memory,2023,Unrated,,"['Chile', 'United States']",['Documentary'],85.0
 336. Sirocco and the Kingdom of the Winds,2023,Unrated,,"['France', 'Belgium']","['Adventure', 'Animation', 'Fantasy']",74.0
 337. How to Come Alive with Norman Mailer,2023,Unrated,,['United States'],"['Biography', 'Documentary']",102.0
@@ -26199,7 +26199,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 448. Summer Solstice,2023,Unrated,,['United States'],"['Comedy', 'Drama']",81.0
 449. What You Wish For,2023,Unrated,,['United States'],"['Dark Comedy', 'Psychological Thriller', 'Horror', 'Thriller']",101.0
 450. The Dive,2023,Unrated,,"['Germany', 'Belgium', 'United Kingdom', 'Malta', 'France']","['Survival', 'Adventure', 'Drama', 'Thriller']",91.0
-451. The Crusades,2023,Unrated,,,"['Comedy', 'Drama']",102.0
+451. The Crusades,2023,Unrated,,['Unknown'],"['Comedy', 'Drama']",102.0
 452. Kings of L.A.,2023,Unrated,,['United States'],"['Action', 'Comedy', 'Crime', 'Drama']",120.0
 453. The Last Video Store,2023,Unrated,,['Canada'],"['Comedy', 'Horror']",79.0
 454. Pianoforte,2023,Unrated,,['Poland'],"['Documentary', 'Music']",91.0
@@ -26214,7 +26214,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 463. You Are Not Me,2023,Unrated,,['Spain'],"['Horror', 'Thriller']",98.0
 464. Last Night of Amore,2023,Unrated,"€9,500,000 (estimated)",['Italy'],"['Drama', 'Thriller']",124.0
 465. You're All Gonna Die,2023,Unrated,,['United States'],['Horror'],88.0
-466. Eight Deadly Shots,2023,Unrated,,,[],316.0
+466. Eight Deadly Shots,2023,Unrated,,['Unknown'],[],316.0
 467. Lord of Misrule,2023,Unrated,,"['United Kingdom', 'Ireland']","['Folk Horror', 'Horror']",104.0
 468. Just the Two of Us,2023,Unrated,"€5,830,000 (estimated)",['France'],"['Drama', 'Thriller']",105.0
 469. A Storm Foretold,2023,Unrated,,['Denmark'],"['News', 'Biography', 'Documentary', 'History']",101.0
@@ -26517,7 +26517,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 166. Crew,2024,Unrated,,['India'],"['Comedy', 'Drama']",118.0
 167. You Gotta Believe,2024,PG,,['United States'],"['Baseball', 'Family', 'Sport']",104.0
 168. Vindicating Trump,2024,PG-13,,['United States'],['Documentary'],96.0
-169. Something to Stand for with Mike Rowe,2024,Unrated,,,['History'],96.0
+169. Something to Stand for with Mike Rowe,2024,Unrated,,['Unknown'],['History'],96.0
 170. The Damned,2024,R,,"['Ireland', 'United Kingdom', 'Iceland', 'Belgium']","['Folk Horror', 'Drama', 'Horror', 'Mystery']",89.0
 171. Goodrich,2024,R,,['United States'],"['Comedy', 'Drama']",110.0
 172. My Dead Friend Zoe,2024,R,,['United States'],"['Dark Comedy', 'Comedy', 'Drama', 'War']",103.0
@@ -26540,7 +26540,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 189. Arcadian,2024,R,,['United States'],"['Monster Horror', 'Action', 'Drama', 'Horror', 'Sci-Fi', 'Thriller']",92.0
 190. Hard Truths,2024,R,,"['United Kingdom', 'Spain']","['Comedy', 'Drama']",97.0
 191. Dragonkeeper,2024,PG,,"['Spain', 'China']","['Adventure', 'Animation', 'Fantasy']",98.0
-192. CatVideoFest 2024,2024,Unrated,,,[],73.0
+192. CatVideoFest 2024,2024,Unrated,,['Unknown'],[],73.0
 193. Your Monster,2024,R,,"['United States', 'United Kingdom']","['Dark Comedy', 'Dark Romance', 'Romantic Comedy', 'Comedy', 'Horror', 'Romance']",103.0
 194. Slingshot,2024,R,,"['Hungary', 'Indonesia', 'United States']","['Space Sci-Fi', 'Sci-Fi', 'Thriller']",108.0
 "195. RM: Right People, Wrong Place",2024,Unrated,,['South Korea'],"['Documentary', 'Music']",80.0
@@ -26549,7 +26549,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 198. Ghostlight,2024,R,,['United States'],"['Comedy', 'Drama']",115.0
 199. Bade Miyan Chote Miyan,2024,Unrated,"₹350,000,000 (estimated)",['India'],"['Action Epic', 'Artificial Intelligence', 'Globetrotting Adventure', 'Action', 'Adventure', 'Sci-Fi', 'Thriller']",163.0
 200. Memoir of a Snail,2024,R,,['Australia'],"['Adult Animation', 'Stop Motion Animation', 'Animation', 'Drama']",95.0
-201. I Am the Immaculate Conception,2024,Unrated,,,[],103.0
+201. I Am the Immaculate Conception,2024,Unrated,,['Unknown'],[],103.0
 202. A Different Man,2024,R,,['United States'],"['Dark Comedy', 'Comedy', 'Drama', 'Thriller']",112.0
 203. Queen of the Ring,2024,PG-13,,['United States'],"['Period Drama', 'Biography', 'Drama', 'Sport']",140.0
 204. The Goat Life,2024,Unrated,,"['India', 'United States', 'Haiti']","['Desert Adventure', 'Survival', 'Adventure', 'Drama']",173.0
@@ -26632,7 +26632,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 281. Sabbath Queen,2024,Unrated,,['United States'],"['Animation', 'Biography', 'Documentary']",105.0
 282. Kizumonogatari: Koyomi Vamp,2024,16+,,['Japan'],"['Adult Animation', 'Anime', 'Action', 'Animation', 'Mystery']",144.0
 283. Alienoid: The Return to the Future,2024,Unrated,,['South Korea'],"['Alien Invasion', 'Martial Arts', 'Sword & Sorcery', 'Action', 'Fantasy', 'Sci-Fi']",122.0
-284. LiSA LiVE is SMiLE ALWAYS -LANDER-,2024,Unrated,,,['Music'],131.0
+284. LiSA LiVE is SMiLE ALWAYS -LANDER-,2024,Unrated,,['Unknown'],['Music'],131.0
 285. Ernest Cole: Lost and Found,2024,Unrated,,"['France', 'United States']",['Documentary'],105.0
 286. Force of Nature: The Dry 2,2024,R,,"['United States', 'Australia']","['Cop Drama', 'Police Procedural', 'Whodunnit', 'Crime', 'Mystery', 'Thriller']",120.0
 287. Seeking Mavis Beacon,2024,R,,['United States'],['Documentary'],102.0
@@ -26648,7 +26648,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 297. An Unfinished Film,2024,Unrated,,"['Singapore', 'Germany', 'United States']",['Drama'],105.0
 298. Omni Loop,2024,Unrated,,['United States'],"['Drama', 'Sci-Fi']",112.0
 299. Panda Plan,2024,Unrated,"$24,834,096 (estimated)",['China'],"['Action', 'Comedy', 'Family']",99.0
-300. Leap of Faith,2024,PG,,,['Documentary'],86.0
+300. Leap of Faith,2024,PG,,['Unknown'],['Documentary'],86.0
 301. Santosh,2024,R,"$5,000,000 (estimated)","['United Kingdom', 'Germany', 'India', 'France']","['Crime', 'Drama', 'Thriller']",128.0
 302. Dark Feathers: Dance of the Geisha,2024,PG-13,"$460,000 (estimated)",['United States'],"['Drama', 'Mystery', 'Thriller']",93.0
 303. Extremely Unique Dynamic,2024,Unrated,,['United States'],"['Comedy', 'Drama']",73.0
@@ -26699,7 +26699,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 348. Made in England: The Films of Powell and Pressburger,2024,Unrated,,"['United Kingdom', 'United States', 'France']",['Documentary'],131.0
 349. Prey,2024,Unrated,"$10,000,000 (estimated)",['United States'],"['Action', 'Thriller']",86.0
 350. Valleyheart,2024,Unrated,,['United States'],['Crime'],98.0
-351. Kenshi Yonezu 2023 Tour Fantasy,2024,Unrated,,,['Music'],107.0
+351. Kenshi Yonezu 2023 Tour Fantasy,2024,Unrated,,['Unknown'],['Music'],107.0
 352. My Dearest Fu Bao,2024,Unrated,,['South Korea'],['Documentary'],94.0
 353. Revolver,2024,Unrated,,['South Korea'],"['Action', 'Crime', 'Drama', 'Mystery']",114.0
 354. Sex-Positive,2024,Unrated,,['United States'],['Comedy'],85.0
@@ -26821,7 +26821,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 470. Black Dog,2024,Unrated,,['China'],"['Drama', 'Thriller']",116.0
 471. Irish Wish,2024,TV-PG,,"['Ireland', 'United States']","['Romantic Comedy', 'Comedy', 'Fantasy', 'Romance']",93.0
 472. The Silent Hour,2024,R,,"['Malta', 'United States', 'Canada']","['Action', 'Crime', 'Thriller']",99.0
-473. Baby Invasion,2024,Unrated,,,"['Found Footage Horror', 'Action', 'Horror', 'Sci-Fi']",80.0
+473. Baby Invasion,2024,Unrated,,['Unknown'],"['Found Footage Horror', 'Action', 'Horror', 'Sci-Fi']",80.0
 474. The Children's Train,2024,TV-14,,['Italy'],"['Period Drama', 'Drama', 'History']",106.0
 475. The Uninvited,2024,R,,['United States'],"['Comedy', 'Drama']",97.0
 476. Jönssonligan kommer tillbaka,2024,Unrated,,['Sweden'],"['Comedy', 'Crime']",104.0
@@ -26920,7 +26920,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 569. Footage,2024,Unrated,,['India'],['Thriller'],124.0
 570. Midas Man,2024,Unrated,,['United Kingdom'],"['Docudrama', 'Biography', 'Drama', 'Music']",112.0
 571. Watchmen: Chapter II,2024,R,,['United States'],"['Adult Animation', 'Computer Animation', 'Dystopian Sci-Fi', 'Action', 'Animation', 'Drama', 'Mystery', 'Sci-Fi']",90.0
-572. Tom Petty: Heartbreakers Beach Party,2024,Unrated,,,['Documentary'],84.0
+572. Tom Petty: Heartbreakers Beach Party,2024,Unrated,,['Unknown'],['Documentary'],84.0
 573. 11 Rebels,2024,Unrated,,['Japan'],"['Martial Arts', 'Period Drama', 'Action', 'Drama', 'History', 'Thriller']",155.0
 574. Outside,2024,TV-MA,,['Philippines'],"['Psychological Horror', 'Psychological Thriller', 'Zombie Horror', 'Horror', 'Thriller']",142.0
 575. Role Play,2024,R,,"['United States', 'France', 'Germany', 'Belgium']","['Action', 'Comedy', 'Romance']",100.0
@@ -26970,7 +26970,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 19. The Last Supper,2025,PG-13,,['United States'],"['Period Drama', 'Drama', 'History']",114.0
 20. Chhaava,2025,Unrated,,['India'],"['Action Epic', 'Costume Drama', 'Epic', 'Historical Epic', 'One-Person Army Action', 'Period Drama', 'Tragedy', 'Action', 'Drama', 'History']",161.0
 21. The Alto Knights,2025,R,"$45,000,000 (estimated)",['United States'],"['Docudrama', 'Gangster', 'Period Drama', 'True Crime', 'Biography', 'Crime', 'Drama', 'History']",123.0
-22. 2025 Oscar Nominated Short Films: Live Action,2025,Unrated,,,[],104.0
+22. 2025 Oscar Nominated Short Films: Live Action,2025,Unrated,,['Unknown'],[],104.0
 23. Rule Breakers,2025,PG,"$8,000,000 (estimated)",['United States'],['Drama'],120.0
 24. Detective Chinatown 1900,2025,Unrated,,['China'],"['Comedy', 'Drama', 'Mystery']",138.0
 25. Game Changer,2025,Unrated,,['India'],"['One-Person Army Action', 'Political Thriller', 'Action', 'Drama', 'Thriller']",165.0
@@ -27087,7 +27087,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 136. Star Trek: Section 31,2025,PG-13,,['United States'],"['Action', 'Adventure', 'Drama', 'Sci-Fi']",95.0
 137. Court - State Vs. A Nobody,2025,Unrated,,['India'],['Drama'],155.0
 138. Wake Up Dead Man,2025,Unrated,"$40,000,000 (estimated)",['United States'],"['Dark Comedy', 'Whodunnit', 'Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",101.0
-139. Popeye's Revenge,2025,Unrated,,,"['B-Horror', 'Slasher Horror', 'Horror']",79.0
+139. Popeye's Revenge,2025,Unrated,,['Unknown'],"['B-Horror', 'Slasher Horror', 'Horror']",79.0
 140. Clown in a Cornfield,2025,R,,['United States'],"['Dark Comedy', 'Slasher Horror', 'Teen Comedy', 'Teen Horror', 'Comedy', 'Horror']",96.0
 141. VidaaMuyarchi,2025,Unrated,,['India'],"['One-Person Army Action', 'Road Trip', 'Action', 'Thriller']",154.0
 142. Squad 36,2025,TV-MA,,['France'],"['Police Procedural', 'Crime', 'Drama', 'Thriller']",124.0
@@ -27098,7 +27098,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 147. Deva,2025,Unrated,"₹500,000,000 (estimated)",['India'],"['One-Person Army Action', 'Psychological Thriller', 'Action', 'Thriller']",156.0
 148. Hans Zimmer & Friends: Diamond in the Desert,2025,Unrated,,"['United States', 'United Kingdom']",['Music'],158.0
 149. Dangerous Animals,2025,Unrated,,['Australia'],"['Horror', 'Thriller']",101.0
-150. Predator: Badlands,2025,Unrated,,,"['Alien Invasion', 'Monster Horror', 'Horror', 'Sci-Fi']",101.0
+150. Predator: Badlands,2025,Unrated,,['Unknown'],"['Alien Invasion', 'Monster Horror', 'Horror', 'Sci-Fi']",101.0
 151. The Grove,2025,Unrated,,['United States'],"['Horror', 'Mystery', 'Thriller']",109.0
 152. Bloat,2025,R,,"['France', 'United States', 'Japan']","['Found Footage Horror', 'Horror']",86.0
 153. I Know What You Did Last Summer,2025,Unrated,,"['Australia', 'United States']","['Slasher Horror', 'Horror', 'Thriller']",101.0
@@ -27144,7 +27144,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 193. Thandel,2025,Unrated,,['India'],"['Action', 'Adventure', 'Romance', 'Thriller']",152.0
 194. Nilavuku Enmel Ennadi Kobam,2025,Unrated,,['India'],"['Comedy', 'Drama', 'Romance']",136.0
 195. Return of the Living Dead,2025,Unrated,,['United States'],"['Comedy', 'Horror', 'Sci-Fi']",101.0
-196. Regretting You,2025,Unrated,,,['Drama'],101.0
+196. Regretting You,2025,Unrated,,['Unknown'],['Drama'],101.0
 197. Juliet & Romeo,2025,PG-13,,"['United States', 'Canada']","['Drama', 'Musical', 'Romance']",121.0
 198. Slanted,2025,Unrated,,['United States'],"['Comedy', 'Drama', 'Sci-Fi']",102.0
 199. The Bad Guys 2,2025,Unrated,"$80,000,000 (estimated)",['United States'],"['Animal Adventure', 'Computer Animation', 'Heist', 'Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Mystery']",0.0
@@ -27171,7 +27171,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 220. Blue Moon,2025,R,,['United States'],"['Biography', 'Drama', 'Music']",100.0
 221. A RAD Documentary,2025,Unrated,,['United States'],['Documentary'],63.0
 222. Fucktoys,2025,Unrated,,['United States'],"['Comedy', 'Drama', 'Fantasy']",106.0
-223. Fog of War,2025,Unrated,,,['Thriller'],101.0
+223. Fog of War,2025,Unrated,,['Unknown'],['Thriller'],101.0
 224. If I Had Legs I'd Kick You,2025,R,,['United States'],"['Comedy', 'Drama']",113.0
 225. Leaving Neverland 2: Surviving Michael Jackson,2025,Unrated,,['United Kingdom'],"['Crime Documentary', 'Crime', 'Documentary']",60.0
 226. Kudumbasthan,2025,Unrated,,['India'],['Comedy'],154.0
@@ -27280,7 +27280,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 329. All the Best Pandya,2025,Unrated,"₹50,000,000 (estimated)",['India'],['Drama'],140.0
 330. Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle,2025,Unrated,,"['Japan', 'United States']","['Anime', 'Dark Fantasy', 'Shōnen', 'Supernatural Fantasy', 'Sword & Sorcery', 'Action', 'Adventure', 'Animation', 'Fantasy', 'Thriller']",101.0
 331. The Woman in Cabin 10,2025,Unrated,,['United States'],"['Horror', 'Thriller']",101.0
-332. Macbeth: David Tennant & Cush Jumbo,2025,Unrated,,,['Drama'],114.0
+332. Macbeth: David Tennant & Cush Jumbo,2025,Unrated,,['Unknown'],['Drama'],114.0
 333. Man with No Past,2025,R,,"['Bulgaria', 'United States']","['Action', 'Drama']",102.0
 334. Don't Die: The Man Who Wants to Live Forever,2025,TV-14,,['United States'],['Documentary'],88.0
 335. Crawlers,2025,Unrated,,['United States'],"['Zombie Horror', 'Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller']",90.0
@@ -27389,7 +27389,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 438. Lifeline,2025,Unrated,,['United States'],"['Drama', 'Mystery', 'Thriller']",101.0
 439. Magic Farm,2025,Unrated,,"['United States', 'Argentina']","['Comedy', 'Drama']",93.0
 440. Riwaj,2025,Unrated,"₹100,000,000 (estimated)",['India'],['Drama'],130.0
-441. Eenie Meanie,2025,Unrated,,,"['Action', 'Comedy', 'Drama', 'Thriller']",101.0
+441. Eenie Meanie,2025,Unrated,,['Unknown'],"['Action', 'Comedy', 'Drama', 'Thriller']",101.0
 442. Kaadhal Enbadhu Podhu Udamai,2025,Unrated,,['India'],['Drama'],108.0
 443. Jaat,2025,Unrated,,['India'],"['Action', 'Drama', 'Thriller']",101.0
 444. Bubble & Squeak,2025,Unrated,,['United States'],"['Dark Comedy', 'Comedy']",95.0
@@ -27479,7 +27479,7 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 528. Renner,2025,Unrated,,['United States'],"['Sci-Fi', 'Thriller']",90.0
 529. Final Days: Tales from the End Times,2025,Unrated,"$20,000 (estimated)",['United States'],['Horror'],91.0
 530. Ed Kemper,2025,Unrated,,['United States'],"['Biography', 'Crime', 'Drama', 'History', 'Thriller']",93.0
-531. Touch,2025,Unrated,,,"['Comedy', 'Family', 'Romance', 'Sport']",101.0
+531. Touch,2025,Unrated,,['Unknown'],"['Comedy', 'Family', 'Romance', 'Sport']",101.0
 532. The Love Scam,2025,Unrated,,['Italy'],"['Buddy Comedy', 'Romantic Comedy', 'Comedy', 'Romance']",101.0
 533. Veera Dheera Sooran: Part 2,2025,Unrated,,['India'],['Action'],162.0
 534. Kadhalikka Neramillai,2025,Unrated,,['India'],['Drama'],140.0
@@ -27516,12 +27516,12 @@ Title,Year,MPA,budget,countries_origin,genres,Duration_minute
 565. Atlantis the Fallen Empire,2025,Unrated,"$6,000 (estimated)",['United States'],['Sci-Fi'],90.0
 566. The Secret Agent,2025,Unrated,,['Brazil'],"['Period Drama', 'Political Thriller', 'Drama', 'Thriller']",101.0
 567. Sauna,2025,Unrated,,['Denmark'],['Drama'],105.0
-568. National Theatre Live: The Importance of Being Earnest,2025,Unrated,,,['Drama'],182.0
+568. National Theatre Live: The Importance of Being Earnest,2025,Unrated,,['Unknown'],['Drama'],182.0
 569. Jessica Frost,2025,Unrated,,['United States'],"['Fantasy Epic', 'Superhero', 'Action', 'Fantasy', 'Sci-Fi']",0.0
 570. Vicious,2025,Unrated,,['United States'],['Horror'],101.0
 571. Magic Hour,2025,Unrated,,['United States'],['Drama'],89.0
 572. Minden Rendben,2025,Unrated,"€600,000 (estimated)",['Hungary'],['Drama'],85.0
-573. Fighting to Be Me: The Dwen Curry Story,2025,Unrated,,,"['Biography', 'Crime', 'Drama']",97.0
+573. Fighting to Be Me: The Dwen Curry Story,2025,Unrated,,['Unknown'],"['Biography', 'Crime', 'Drama']",97.0
 574. Nonnas,2025,PG,,['United States'],['Comedy'],111.0
 575. Girl in the Garage: The Laura Cowan Story,2025,TV-14,,['United States'],['Drama'],88.0
 576. The Blue Trail,2025,Unrated,,"['Brazil', 'Mexico', 'Netherlands', 'Chile']","['Dystopian Sci-Fi', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",85.0
