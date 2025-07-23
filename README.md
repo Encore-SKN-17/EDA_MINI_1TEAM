@@ -24,14 +24,14 @@
 
 ---
 
-### 🗓️ (Mini)프로젝트 기간
+## 🗓️ (Mini)프로젝트 기간
 ✔️ 2025.07.18 ~ 2025.07.24
 
-### 📖 프로젝트 소개
+## 📖 프로젝트 소개
 
 - 대중문화(**영화**,**음악**)의 시간이 지남의 따라라 변화하는 러닝타임을 그래프로 표현 (설명 더 정확하고 적합하게 바꿔야 할 듯)
 
-### 📌 프로젝트 배경 및 필요성 (배경과 필요성 두 파트로 나눠서 정리하면 좋을듯)
+## 📌 프로젝트 배경 및 필요성 (배경과 필요성 두 파트로 나눠서 정리하면 좋을듯)
 
 
 1. 영화의 러닝타임이 길어질수록 영화광고(PPL)가 증가하고, 이는 영화 수익에 긍정적인 영향을 미칩니다.
@@ -56,13 +56,13 @@
 </div>
 
 
-### 🎯 프로젝트 목표
+## 🎯 프로젝트 목표
   
 - 대중문화 중 영화 와 음악의 러닝타임 변화 관계를 알아보고
 - 시간이 지날수록 영화의 시간은 증가하고 음악의 시간은 감소함을 증명
 - 그로 인한 변화를 그래프로 표현
 
-### 기술 스택
+## 기술 스택 (흠....여기서는 필요 없을 것 같은데, 강사님한테 여쭤보겠습니다)
 - <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 - <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">
 - <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
@@ -72,7 +72,7 @@
 
 
 
-### 데이터 출처
+## 데이터 출처
 
 - [음악](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)    <img src="https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=white">
 (이 데이터 맞나요...?)
@@ -81,11 +81,11 @@
 
 
 
-### ERD 결과
+## ERD 결과
 짜잔~~~~~~~~~~~~~~~~~~~~~~~~~~(그래프 그래프 그래프 설명 설명 설명)
 
 
-### 결론
+## 결론
 그래서, ~~~ 입니다.
 
 
