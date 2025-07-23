@@ -8,7 +8,7 @@
   
 
   <h3>✅ 팀 명</h3>
-  <p><strong>SKN17-1st-1Team : 🌸 산하엽(Skeleton Flower) 🌸</strong></p>
+  <p><strong>SKN17-EDA-Mini-1Team : 🌸 산하엽(Skeleton Flower) 🌸</strong></p>
 
   <h3>🧑‍💻 팀 멤버</h3>
   <!-- 팀 멤버 정보는 여기에 추가하세요 -->
