@@ -16,7 +16,11 @@
 
 | [김주서](https://github.com/kimjuseo71) | [홍문봉](https://github.com/Glowcloudy) | [양정민](https://github.com/Yangmin3) | [한 훈](https://github.com/Hoonieboogie) | [김주영](https://github.com/samkim7788) |
 |:--------------------------------------:|:--------------------------------------:|:-------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| <img src="https://cdn.discordapp.com/attachments/1390125153542869159/1397415348168294500/370391fd-2fe0-4a83-a79a-2e462210fb35.png?ex=6881a3f5&is=68805275&hm=07c0fcb9b46efe06fc254dc8afda222f6500183de06e7959a3b7749620a79c00" width="100" height="200"> | <img src="https://cdn.discordapp.com/attachments/1395586816832438434/1397405339388874913/AmZfHv.png?ex=68819aa3&is=68804923&hm=d251f3ceaf0b4a67e4d3ebb670282a34749061168dfefcc432b748b4e05023c7" width="100" height="200"> | <img src="https://cdn.discordapp.com/attachments/1390125153542869159/1397420134108499988/01f607c7-1561-4973-bf47-038a40ecd0f7.png?ex=6881a86a&is=688056ea&hm=13649fe63e96e57121b5ccb53a00780c9d7f39cc21cd8788796766f5f68bbe30" width="100" height="200"> | <img src="https://cdn.discordapp.com/attachments/1390125153542869159/1397424014686818425/3f02d83d-8363-45c2-9a5e-fd488063d006.png?ex=6881ac07&is=68805a87&hm=9af426f52fed283f64867cc1f8f25d4a35f2aa08d5af1feb96ca1c78db59efda" width="100" height="200"> | <img src="https://cdn.discordapp.com/attachments/1395586816832438434/1397395933632659466/animal-6814871_1280.png?ex=688191e0&is=68804060&hm=b7d7143e4ededd4f2528517af364723d733b3cc496c77607c015f423d2ba7609" width="100" height="200"> |
+| <img src="https://cdn.discordapp.com/attachments/1390125153542869159/1397415348168294500/370391fd-2fe0-4a83-a79a-2e462210fb35.png?ex=6881a3f5&is=68805275&hm=07c0fcb9b46efe06fc254dc8afda222f6500183de06e7959a3b7749620a79c00" width="150" height="250"> | <img src="https://cdn.discordapp.com/attachments/1395586816832438434/1397515149916770355/f47b8916bae6fe04.jpg?ex=688200e8&is=6880af68&hm=178c39ec3e7fdbbbd5168b803f0aabc823a2c4354cff11a37d3d489663e70843" width="150" height="250"> | <img src="https://cdn.discordapp.com/attachments/1394544084059820204/1397386815664689303/cat2.jpg?ex=68818963&is=688037e3&hm=9622906190011323b90ec1c1a87e31a6635179bb363d016d77447a39ec40b1e1" width="250" height="350"> | <img src="https://cdn.discordapp.com/attachments/1390125153542869159/1397424014686818425/3f02d83d-8363-45c2-9a5e-fd488063d006.png?ex=6881ac07&is=68805a87&hm=9af426f52fed283f64867cc1f8f25d4a35f2aa08d5af1feb96ca1c78db59efda" width="150" height="250"> | <img src="https://cdn.discordapp.com/attachments/1395586816832438434/1397395933632659466/animal-6814871_1280.png?ex=688191e0&is=68804060&hm=b7d7143e4ededd4f2528517af364723d733b3cc496c77607c015f423d2ba7609" width="150" height="250"> |
+
+
+
+
 
 
 
@@ -67,23 +71,18 @@
 - <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white">
 - <img src="https://img.shields.io/badge/matplotlib-11557c?style=plastic&logo=matplotlib&logoColor=white">
 
-
-## 프로젝트 목표
-
-
 ## 데이터 출처
-- [음악](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)    <img src="https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=white">
-(이 데이터 맞나요...?)
+- [음악](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks) (Spotify Music From 1921 to 2020)
 
 - [영화](https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023?utm_source=perplexity) (IMDB Movies From 1920 to 2025)
 
 
 
-## ERD 결과
+## EDA 결과
 짜잔~~~~~~~~~~~~~~~~~~~~~~~~~~(그래프 그래프 그래프 설명 설명 설명)
 
 
 ## 결론
-그래서, ~~~ 입니다.
+
 
 
