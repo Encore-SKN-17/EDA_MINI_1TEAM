@@ -24,7 +24,6 @@
 
 ---
 
-
 ### 🗓️ (Mini)프로젝트 기간
 ✔️ 2025.07.18 ~ 2025.07.24
 
@@ -54,9 +53,8 @@
  이는 Spotify 등 유료 플랫폼으로의 유입과 수익화로 이어지며, 음악이 ‘짧고 쉽게 소비되는 형태’로 진화하는 흐름을 촉진하고 있습니다.
 - 출처 : **3.** "The Impact of Social Media on Music Demand: Evidence from a Quasi-Natural Experiment" **(May 2024)** 
 
-
-<h1> Result <h1>
 </div>
+
 
 ### 🎯 프로젝트 목표
   
@@ -71,7 +69,6 @@
 - <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
 - <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white">
 - <img src="https://img.shields.io/badge/matplotlib-11557c?style=plastic&logo=matplotlib&logoColor=white">
-
 
 
 
