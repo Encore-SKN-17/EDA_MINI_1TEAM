@@ -75,9 +75,9 @@
 ### 데이터 출처
 
 - [음악](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)    <img src="https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=white">
+(이 데이터 맞나요...?)
 
-
-- [영화](https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023?utm_source=perplexity) <img src="https://img.shields.io/badge/Netflix-E50914?style=plastic&logo=netflix&logoColor=white">
+- [영화](https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023?utm_source=perplexity) (IMDB Movies From 1920 to 2025)
 
 
 
