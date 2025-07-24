@@ -61,7 +61,7 @@
   
 따라서 콘텐츠의 길이는 단순한 제작 기획 요소를 넘어, 영화사 및 엔터테인먼트 기업의 수익성과 직결되는 전략적 변수로 작용합니다. 영화의 경우, 러닝타임의 증가가 더 많은 PPL 삽입과 다양한 장면 연출을 가능하게 하며, 이는 직접적인 수익 증대의 기회를 제공합니다. 반대로 과도한 러닝타임은 관객 피로도와 회차 수 감소로 이어져 리스크 요인으로 작용할 수 있어, 적정 길이의 전략적 판단이 요구됩니다. 음악 산업에서도 콘텐츠의 길이는 점점 더 중요해지고 있습니다. 짧은 음악은 알고리즘의 추천 가능성을 높이고, TikTok 등 숏폼 플랫폼에서의 바이럴 가능성을 키움으로써, 초기 인지도 확보와 수익화 가능성을 높입니다. 이는 음악 산업 전반에 걸쳐 곡의 구조, 길이, 도입부 구성 등에 있어 데이터 기반의 제작 전략을 요구하고 있습니다. 이처럼 영화와 음악 양측 모두에서 콘텐츠 길이는 단순한 ‘형식적 선택’이 아니라, 시장의 흐름과 소비자의 반응을 반영한 전략적 요소입니다. 따라서 콘텐츠 길이 변화의 트렌드를 분석하는 본 프로젝트는, 콘텐츠 제작사와 유통사가 보다 효율적인 기획과 수익 전략을 수립하는 데 중요한 기초자료로 활용될 수 있습니다.
 
-# 기술 스택 (흠....여기서는 필요 없을 것 같은데, 강사님한테 여쭤보겠습니다)
+# 기술 스택
 - <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 - <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">
 - <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
@@ -77,60 +77,41 @@
 
 ## ✅ 1차 전처리: 기본 정제
 ### 1. 불필요 컬럼 제거
-제거 대상
-- 후천적 Feature: 평점, 투표 수, 매출 등
-
+영화
+- 상영국가 결측치는 'Unknown' 으로 대체
 - 의미 없는 Feature: 줄거리, 링크, 포스터 등
-  
-### 2. 상영시간(runtime) 처리
-- 문자열 형태 (예: "2h 4m") → 정수형 분 단위 (예: 124) 변환
-- 결측치는 연도별 중앙값(median) 으로 대체  (⚠️ 평균 사용 시 편차 커서 데이터 왜곡 가능)
-
-
-
-### 3. 상영등급(MPA Rating) 처리
-- 'Not Rated' 및 결측치 → 'Unrated' 로 통일
-
-
-### 4. 상영국가 처리
-- 결측치는 'Unknown' 으로 대체
-
-
-### 5. 연도별 데이터 병합
+- 상영등급(MPA Rating) 'Not Rated' 및 결측치 → 'Unrated' 로 통일
 - 여러 연도에 분산된 데이터를 하나의 통합 DataFrame으로 구성
+<img width="1345" height="606" alt="image" src="https://github.com/user-attachments/assets/a2689d21-c4bb-4180-b397-449817b203cc" />
+
+음악
+<img width="530" height="630" alt="image" src="https://github.com/user-attachments/assets/3834df7b-a2a4-4472-ac6b-414dbd4292f0" />
+
 
 
 ## ✅ 2차 전처리: 시각화 및 분석 목적 정제
 ### 6. 상영시간 이상치 제거
 - 전체 및 10년 단위 상영시간을 Box Plot으로 시각화
 - IQR 기준으로 연도별 이상치 제거
+<img width="1070" height="566" alt="image" src="https://github.com/user-attachments/assets/d090106e-3348-47d9-a740-b9b003abeffd" />
 
 
-### 7. 다중 장르 처리
+### 7. 다중 국가/장르 처리
 - 리스트 형태 다중 장르 → 행 단위 분해
-  
+<img width="594" height="167" alt="image" src="https://github.com/user-attachments/assets/f2718f43-cd98-4128-be02-573c1d253ff8" />
+<img width="790" height="493" alt="image" src="https://github.com/user-attachments/assets/60551bb9-a870-46b7-a593-ae45e92b4980" />
+
 예시:
 <pre>
 {"훈이의 모험", [액션, 로맨스]}  
 → {"훈이의 모험", 액션}  
 → {"훈이의 모험", 로맨스}
+{'hard_rock', 'alternative_rock', 'metal_rock' }  
+→ {'rock'}
+{'electro','edm','house','dance','techno','electronic'}  
+→ {'Electronic'}
 </pre>
 
-### 8. 예산(budget) 처리
-- 문자열 (예: "$40,000") → 숫자 (40000) 변환
-
-- 다양한 통화 → 2025년 7월 기준 환율로 USD 통일
-  
-
-### 9. 다중 국가 처리
-- 리스트 형태 다중 국가 → 행 단위 분해
-  
-예시:
-<pre>
-{"훈이는 두근두근", [미국, 한국]}  
-→ {"훈이는 두근두근", 미국}  
-→ {"훈이는 두근두근", 한국}
-</pre>
 ## EDA 결과
 
 ![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397929318688227489/boxplot_decades_runtime.png?ex=688382a1&is=68823121&hm=20e50791e789a218aed5d69a64ecd1292dc773b02905cb1cb823e4f6fe638d2d&)
@@ -141,7 +122,9 @@
 
 
 ## 결론
-
+저희 조 가설인 영화/음악의 러닝타임 증가/감소에 대한 고찰에 맞는 그래프의 모습을 보여 주고 있습니다.
+영화의 러닝타임의 증가원인은 세계관을 가지고 있는 시리즈 영화들의 등장 ex) 마블 세계관, 아바타 세계관 등... 세계관이 커지다 보니 같은 세계관의 인물의 등장 및 세계관 설명 등으로 인해 러닝타임이 길어지는데 한 몫을 함, 또한 ott의 발달로 인해 영화, 드라마 등 시리즈를 한번에 몰아서 볼 수 있다는 것도 러닝타임의 증가의 원인으로 예상이 됨
+음악의 경우 음악을 소비하는 소비자들의 대부분은 TV를 보는 것보다 SNS를 통해 새로운 음악을 접하는 경우가 많음, 그로인해  SNS(틱톡, 인스타그램, 유튜브 숏츠)에 BGM 형식으로 들어가거나 아니면 챌린지를 통해 홍보를 하는 원인이 러닝타임의 감소로 보임
 
 ## 회고
 - 김주서:처음 데이터 그래프를 만들며 단위 설정과 해석의 중요성을 깨달았습니다. 변화 전달을 위해 범위를 세밀하게 조절하고, 효과적인 표현 방식에 대해 고민하게 되었습니다.
