@@ -137,12 +137,11 @@
 </pre>
 ## EDA 결과
 
-![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1395586816832438434/1397882426943995986/image.png?ex=688356f5&is=68820575&hm=f07b9104fccbaa3a81bbfe2de191bb9e2872b8a13ae84042902ad55f8f72c583&)
 ![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397929318688227489/boxplot_decades_runtime.png?ex=688382a1&is=68823121&hm=20e50791e789a218aed5d69a64ecd1292dc773b02905cb1cb823e4f6fe638d2d&)
 ![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397929833949822977/top5_country_avg_runtime.png?ex=6883831c&is=6882319c&hm=4031b6fef34b46ee7c015eeeeef84e382378d7fd5ec65b628f0a4c9e12d48543&)
 ![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397927738853167247/image.png?ex=68838129&is=68822fa9&hm=4a3f3f8043334ed5caf1050cc6c0a6b3749352c11223d3951c067495414b2c1a&)
 ![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397939090325897317/image.png?ex=68838bbb&is=68823a3b&hm=cb15910347c7af0ea5b30183f71fa137eb6ccb019e9e4db4c7861f2e8c1b7f0c&)
-
+![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1395586816832438434/1397882426943995986/image.png?ex=688356f5&is=68820575&hm=f07b9104fccbaa3a81bbfe2de191bb9e2872b8a13ae84042902ad55f8f72c583&)
 
 
 ## 결론
