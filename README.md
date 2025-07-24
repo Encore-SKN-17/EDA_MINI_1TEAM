@@ -66,12 +66,8 @@
 이처럼 콘텐츠 길이의 변화는 단순한 ‘형식적 선택’이 아니라, 소비자 반응과 시장 흐름을 반영한 전략적 요소입니다. 따라서 **본 프로젝트는 영화 및 음악 콘텐츠의 길이 변화 추이를 정량적으로 분석함으로써, 콘텐츠 제작사와 유통사가 보다 정교한 기획 및 수익 전략을 수립하는 데 기초자료로 활용될 수 있을 것이라고 기대합니다.**
 
 # 기술 스택
-- <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-- <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">
-- <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
-- <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
-- <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white">
-- <img src="https://img.shields.io/badge/matplotlib-11557c?style=plastic&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-11557c?style=plastic&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/seaborn-0C5A5A?style=plastic&logoColor=white">
+
 
 ## 데이터 출처
 - [음악](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks) (Spotify Music From 1921 to 2020)
