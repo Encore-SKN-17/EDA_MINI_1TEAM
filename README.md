@@ -1,3 +1,4 @@
+## 데이터 전처리 과정
 <!-- 주제: 왼쪽 정렬, 두 번째 크기 -->
 <div align="center">
   <h1>런타임의 반란: 영화와 음악의 시간 전쟁</h1>
@@ -17,6 +18,12 @@
 | [김주서](https://github.com/kimjuseo71) | [홍문봉](https://github.com/Glowcloudy) | [양정민](https://github.com/Yangmin3) | [한 훈](https://github.com/Hoonieboogie) | [김주영](https://github.com/samkim7788) |
 |:--------------------------------------:|:--------------------------------------:|:-------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | <img src="https://cdn.discordapp.com/attachments/1390125153542869159/1397415348168294500/370391fd-2fe0-4a83-a79a-2e462210fb35.png?ex=6881a3f5&is=68805275&hm=07c0fcb9b46efe06fc254dc8afda222f6500183de06e7959a3b7749620a79c00" width="150" height="250"> | <img src="https://cdn.discordapp.com/attachments/1395586816832438434/1397515149916770355/f47b8916bae6fe04.jpg?ex=688200e8&is=6880af68&hm=178c39ec3e7fdbbbd5168b803f0aabc823a2c4354cff11a37d3d489663e70843" width="150" height="250"> | <img src="https://cdn.discordapp.com/attachments/1390125153542869159/1397420134108499988/01f607c7-1561-4973-bf47-038a40ecd0f7.png?ex=6882f9ea&is=6881a86a&hm=ddbddf82df66befb38a0a710029e85c2784c04d990db359d23c21eb8240bad8d" width="150" height="250"> | <img src="https://cdn.discordapp.com/attachments/1390125153542869159/1397424014686818425/3f02d83d-8363-45c2-9a5e-fd488063d006.png?ex=6881ac07&is=68805a87&hm=9af426f52fed283f64867cc1f8f25d4a35f2aa08d5af1feb96ca1c78db59efda" width="150" height="250"> | <img src="https://cdn.discordapp.com/attachments/1395586816832438434/1397395933632659466/animal-6814871_1280.png?ex=688191e0&is=68804060&hm=b7d7143e4ededd4f2528517af364723d733b3cc496c77607c015f423d2ba7609" width="150" height="250"> |
+
+
+
+
+
+
 
 
 
@@ -58,9 +65,13 @@
 
 이처럼 영화와 음악 양측 모두에서 콘텐츠 길이는 단순한 ‘형식적 선택’이 아니라, 시장의 흐름과 소비자의 반응을 반영한 전략적 요소입니다. 따라서 콘텐츠 길이 변화의 트렌드를 분석하는 본 프로젝트는, 콘텐츠 제작사와 유통사가 보다 효율적인 기획과 수익 전략을 수립하는 데 중요한 기초자료로 활용될 수 있습니다.
 
-## 기술 스택
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-11557c?style=plastic&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/seaborn-0C5A5A?style=plastic&logoColor=white">
-
+## 기술 스택 (흠....여기서는 필요 없을 것 같은데, 강사님한테 여쭤보겠습니다)
+- <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+- <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">
+- <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
+- <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
+- <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white">
+- <img src="https://img.shields.io/badge/matplotlib-11557c?style=plastic&logo=matplotlib&logoColor=white">
 
 ## 데이터 출처
 - [음악](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks) (Spotify Music From 1921 to 2020)
@@ -68,47 +79,65 @@
 - [영화](https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023?utm_source=perplexity) (IMDB Movies From 1920 to 2025)
 
 
-## 데이터 전처리 과정
-### <Movie 기본 전처리 과정>
-#### **1차**
-**1.1. 원본 데이터에서 필요없는 컬럼을 제거**
-- 후천적인 feature (평점, 투표, 매출 등)
-- 의미가 전혀 없는 feature (영화 설명, 링크, 등등)
+## ✅ 1차 전처리: 기본 정제
+### 1. 불필요 컬럼 제거
+제거 대상
+- 후천적 Feature: 평점, 투표 수, 매출 등
 
-**1.2. 상영시간 처리**
-- 인간 중심적 문자열로 되어있는 것을 숫자로 변경 (e.g. '2h 4m' ➡️ 124)
-- 결측치는 median으로 대체 (연도별)
-    - 통상적으로 영화 상영시간은 편차가 굉장히 크기 때문에 결측치를 평균값으로 처리하면 데이터 왜곡 가능성이 높아짐
+- 의미 없는 Feature: 줄거리, 링크, 포스터 등
+  
+### 2. 상영시간(runtime) 처리
+- 문자열 형태 (예: "2h 4m") → 정수형 분 단위 (예: 124) 변환
+- 결측치는 연도별 중앙값(median) 으로 대체  (⚠️ 평균 사용 시 편차 커서 데이터 왜곡 가능)
 
-**1.3. 상영등급 (MPA) 처리**
-'Not Rated' 및 결측치를 'Unrated'로 변환
 
-**1.4. 상영국가 처리**
-- 상영국가 결측치는 'Unknown'으로 처리
 
-**1.5. 연도별 영화 테이블을 하나의 Dataframe으로 병합**
+### 3. 상영등급(MPA Rating) 처리
+- 'Not Rated' 및 결측치 → 'Unrated' 로 통일
 
-#### **2차** 
-(이는 시각화 과정에서 진행 된 과정임)
 
-**2.1. 전체 평균 러닝타임 & 10년 단위 러닝타임(Box plot)**
-- IQR 기준으로 연도별 상영시간 이상치 제거
+### 4. 상영국가 처리
+- 결측치는 'Unknown' 으로 대체
 
-**2.2 다중 장르**
-- IQR 기준으로 연도별 상영시간 이상치 제거
-- 한 영화에 리스트 형태로 여러 장르가 있는 경우를 영화마다 하나의 장르를 가지게 펼침
-    - E.g. {"훈이의 모험", [액션, 로맨스]} ➡️ {"훈이의 모험", 액션} , {"훈이의 모험", 로맨스} 
 
-**2.3. 예산 처리**
-- 인간 중심적 문자열을 숫자로 변환(e.g. '$40,000' ➡️ 40000)
-- 서로 다른 통화를 2025년 7월 기준 환율을 적용하여 USD로 변환
+### 5. 연도별 데이터 병합
+- 여러 연도에 분산된 데이터를 하나의 통합 DataFrame으로 구성
 
-**2.4. 다중 국가**
-- 한 영화에 리스트 형태로 여러 국가가 있는 경우를 영화마다 하나의 국가를 가지게 펼침
-    - E.g. {"훈이는 두근두근", [미국, 한국]} ➡️ {"훈이는 두근두근", 미국} , {"훈이의 모험", 한국} 
 
+## ✅ 2차 전처리: 시각화 및 분석 목적 정제
+### 6. 상영시간 이상치 제거
+- 전체 및 10년 단위 상영시간을 Box Plot으로 시각화
+- IQR 기준으로 연도별 이상치 제거
+
+
+### 7. 다중 장르 처리
+- 리스트 형태 다중 장르 → 행 단위 분해
+  
+예시:
+<pre>
+{"훈이의 모험", [액션, 로맨스]}  
+→ {"훈이의 모험", 액션}  
+→ {"훈이의 모험", 로맨스}
+</pre>
+
+### 8. 예산(budget) 처리
+- 문자열 (예: "$40,000") → 숫자 (40000) 변환
+
+- 다양한 통화 → 2025년 7월 기준 환율로 USD 통일
+  
+
+### 9. 다중 국가 처리
+- 리스트 형태 다중 국가 → 행 단위 분해
+  
+예시:
+<pre>
+{"훈이는 두근두근", [미국, 한국]}  
+→ {"훈이는 두근두근", 미국}  
+→ {"훈이는 두근두근", 한국}
+</pre>
 ## EDA 결과
-짜잔~~~~~~~~~~~~~~~~~~~~~~~~~~(그래프 그래프 그래프 설명 설명 설명)
+
+![EDA 결과 이미지](https://media.discordapp.net/attachments/1395586816832438434/1397860219538903123/image.png?ex=68834247&is=6881f0c7&hm=c34bed9974d67a68988e1de9c9024bf6ffa665ec58cbda4bf4816f857ed5e5db&=&format=webp&quality=lossless&width=616&height=800)
 
 
 ## 결론
@@ -117,7 +146,7 @@
 ## 회고
 - 김주서:
 - 홍문봉:
-- 양정민:
-- 한훈: 영화 러닝타임의 변화 추이를 시각적으로 분석하는 과정에서, 한 영화에 여러 장르나 국가가 함께 기록된 경우가 많아 시각화에 어려움이 있었습니다. 이를 해결하기 위해 explode() 함수를 활용해 리스트 형태의 데이터를 개별 행으로 분리하고, IQR 기법으로 이상치를 제거하여 신뢰도 높은 평균값을 도출하고자 하였습니다. 프로젝트 전체를 진행하며 데이터 분석은 단순한 정리가 아니라, 숨겨진 흐름을 꺼내어 해석하고 메시지를 전달하는 일이라는 사실을 다시금 느낄 수 있었습니다.
+- 양정민: 방대한 음악 데이터셋을 시각화하여 패턴과 트렌드를 분석하는 데 집중하였으나 데이터 양이 많아서 오류가 난건지 오류가 자주 발생하고 그로 인해 실수가 잦아져서 팀원의 도움을 구해 문제를 해결하고     동시에 관련 논문들을 많이 읽으며 레퍼런스 정리에 많은 시간을 투자했다.이를 통해 데이터 이해도를 높이고 프로젝트의 기초를 탄탄히 다질 수 있었다.
+- 한훈:영화 러닝타임의 변화 추이를 시각적으로 분석하는 과정에서, 한 영화에 여러 장르나 국가가 함께 기록된 경우가 많아 시각화에 어려움이 있었습니다. 이를 해결하기 위해 explode() 함수를 활용해 리스트 형태의 데이터를 개별 행으로 분리하고, IQR 기법으로 이상치를 제거하여 신뢰도 높은 평균값을 도출하고자 하였습니다. 프로젝트 전체를 진행하며 데이터 분석은 단순한 정리가 아니라, 숨겨진 흐름을 꺼내어 해석하고 메시지를 전달하는 일이라는 사실을 다시금 느낄 수 있었습니다.
 - 김주영: 
 
