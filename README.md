@@ -58,7 +58,7 @@
 
 이처럼 영화와 음악 양측 모두에서 콘텐츠 길이는 단순한 ‘형식적 선택’이 아니라, 시장의 흐름과 소비자의 반응을 반영한 전략적 요소입니다. 따라서 콘텐츠 길이 변화의 트렌드를 분석하는 본 프로젝트는, 콘텐츠 제작사와 유통사가 보다 효율적인 기획과 수익 전략을 수립하는 데 중요한 기초자료로 활용될 수 있습니다.
 
-## 기술 스택 (흠....여기서는 필요 없을 것 같은데, 강사님한테 여쭤보겠습니다)
+## 기술 스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-11557c?style=plastic&logo=matplotlib&logoColor=white">
 
 ## 데이터 출처
