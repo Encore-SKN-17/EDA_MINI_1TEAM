@@ -61,90 +61,9 @@
   
 따라서 콘텐츠의 길이는 단순한 제작 기획 요소를 넘어, 영화사 및 엔터테인먼트 기업의 수익성과 직결되는 전략적 변수로 작용합니다. 영화의 경우, 러닝타임의 증가가 더 많은 PPL 삽입과 다양한 장면 연출을 가능하게 하며, 이는 직접적인 수익 증대의 기회를 제공합니다. 반대로 과도한 러닝타임은 관객 피로도와 회차 수 감소로 이어져 리스크 요인으로 작용할 수 있어, 적정 길이의 전략적 판단이 요구됩니다.
 
-음악 산업에서도 콘텐츠의 길이는 점점 더 중요해지고 있습니다. 짧은 음악은 알고리즘의 추천 가능성을 높이고, TikTok 등 숏폼 플랫폼에서의 바이럴 가능성을 키움으로써, 초기 인지도 확보와 수익화 가능성을 높입니다. 이는 음악 산업 전반에 걸쳐 곡의 구조, 길이, 도입부 구성 등에 있어 데이터 기반의 제작 전략을 요구하고 있습니다.
-
-이처럼 영화와 음악 양측 모두에서 콘텐츠 길이는 단순한 ‘형식적 선택’이 아니라, 시장의 흐름과 소비자의 반응을 반영한 전략적 요소입니다. 따라서 콘텐츠 길이 변화의 트렌드를 분석하는 본 프로젝트는, 콘텐츠 제작사와 유통사가 보다 효율적인 기획과 수익 전략을 수립하는 데 중요한 기초자료로 활용될 수 있습니다.
-
-## 기술 스택 (흠....여기서는 필요 없을 것 같은데, 강사님한테 여쭤보겠습니다)
-- <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-- <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">
-- <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
-- <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
-- <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white">
-- <img src="https://img.shields.io/badge/matplotlib-11557c?style=plastic&logo=matplotlib&logoColor=white">
-
-## 데이터 출처
-- [음악](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks) (Spotify Music From 1921 to 2020)
-
-- [영화](https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023?utm_source=perplexity) (IMDB Movies From 1920 to 2025)
+음악 산업에서도 콘텐츠의 길이는 점점 더 중요해지고 있습니다. 짧은 음악은 알고리즘의 추천 가능성을 높이고, TikTok 등 숏폼 플랫폼에서의 바이럴 가능성을 키움으로써, 초기 인지도 확보와 수익화 가능성을 높입니다. 이는 음악 산업임
 
 
-## ✅ 1차 전처리: 기본 정제
-### 1. 불필요 컬럼 제거
-제거 대상
-- 후천적 Feature: 평점, 투표 수, 매출 등
-
-- 의미 없는 Feature: 줄거리, 링크, 포스터 등
-  
-### 2. 상영시간(runtime) 처리
-- 문자열 형태 (예: "2h 4m") → 정수형 분 단위 (예: 124) 변환
-- 결측치는 연도별 중앙값(median) 으로 대체  (⚠️ 평균 사용 시 편차 커서 데이터 왜곡 가능)
-
-
-
-### 3. 상영등급(MPA Rating) 처리
-- 'Not Rated' 및 결측치 → 'Unrated' 로 통일
-
-
-### 4. 상영국가 처리
-- 결측치는 'Unknown' 으로 대체
-
-
-### 5. 연도별 데이터 병합
-- 여러 연도에 분산된 데이터를 하나의 통합 DataFrame으로 구성
-
-
-## ✅ 2차 전처리: 시각화 및 분석 목적 정제
-### 6. 상영시간 이상치 제거
-- 전체 및 10년 단위 상영시간을 Box Plot으로 시각화
-- IQR 기준으로 연도별 이상치 제거
-
-
-### 7. 다중 장르 처리
-- 리스트 형태 다중 장르 → 행 단위 분해
-  
-예시:
-<pre>
-{"훈이의 모험", [액션, 로맨스]}  
-→ {"훈이의 모험", 액션}  
-→ {"훈이의 모험", 로맨스}
-</pre>
-
-### 8. 예산(budget) 처리
-- 문자열 (예: "$40,000") → 숫자 (40000) 변환
-
-- 다양한 통화 → 2025년 7월 기준 환율로 USD 통일
-  
-
-### 9. 다중 국가 처리
-- 리스트 형태 다중 국가 → 행 단위 분해
-  
-예시:
-<pre>
-{"훈이는 두근두근", [미국, 한국]}  
-→ {"훈이는 두근두근", 미국}  
-→ {"훈이는 두근두근", 한국}
-</pre>
-## EDA 결과
-
-![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397929318688227489/boxplot_decades_runtime.png?ex=688382a1&is=68823121&hm=20e50791e789a218aed5d69a64ecd1292dc773b02905cb1cb823e4f6fe638d2d&)
-![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397929833949822977/top5_country_avg_runtime.png?ex=6883831c&is=6882319c&hm=4031b6fef34b46ee7c015eeeeef84e382378d7fd5ec65b628f0a4c9e12d48543&)
-![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397927738853167247/image.png?ex=68838129&is=68822fa9&hm=4a3f3f8043334ed5caf1050cc6c0a6b3749352c11223d3951c067495414b2c1a&)
-![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1397927714987704332/1397939090325897317/image.png?ex=68838bbb&is=68823a3b&hm=cb15910347c7af0ea5b30183f71fa137eb6ccb019e9e4db4c7861f2e8c1b7f0c&)
-![EDA 결과 이미지](https://cdn.discordapp.com/attachments/1395586816832438434/1397882426943995986/image.png?ex=688356f5&is=68820575&hm=f07b9104fccbaa3a81bbfe2de191bb9e2872b8a13ae84042902ad55f8f72c583&)
-
-
-## 결론
 
 
 ## 회고
